@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.pt
+data/*
+!data/universe_paper.csv
+results/

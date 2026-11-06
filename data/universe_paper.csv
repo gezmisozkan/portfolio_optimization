@@ -1,0 +1,1094 @@
+ticker,yfinance_ticker,name,exchange,sector,industry,country,market_cap
+BIST:AEFES,AEFES.IS,Anadolu Efes Biracilik ve Malt Sanayii Anonim Sirketi,IST,Consumer Defensive,Beverages - Non-Alcoholic,Turkey,97993383936.0
+BIST:AGHOL,AGHOL.IS,AG Anadolu Grubu Holding A.S.,IST,Industrials,Conglomerates,Turkey,67702730752.0
+BIST:AGROT,AGROT.IS,AGROTECH TEKNOLOJI,IST,Industrials,Conglomerates,Turkey,9539999744.0
+BIST:AHGAZ,AHGAZ.IS,Ahlatci Dogal Gaz Dagitim Enerji ve Yatirim A.S.,IST,Utilities,Utilities - Regulated Gas,Turkey,57044000768.0
+BIST:AKBNK,AKBNK.IS,Akbank T.A.S.,IST,Financial Services,Banks - Regional,Turkey,258855993344.0
+NYMEX:BZ1!,BZ=F,Brent Crude Oil Last Day Financ,World,Commodities,Commodities,World,
+ICEUS:CC1!,CC=F,Cocoa Jul 25,World,Commodities,Commodities,World,
+NYMEX:CL1!,CL=F,Crude Oil May 25,World,Commodities,Commodities,World,
+ICEUS:CT1!,CT=F,Cotton Jul 25,World,Commodities,Commodities,World,
+OANDA:XAUUSD,GC=F,Gold Jun 25,World,Commodities,Commodities,World,
+COMEX:HG1!,HG=F,Copper May 25,World,Commodities,Commodities,World,
+ICEUS:KC1!,KC=F,Coffee Jul 25,World,Commodities,Commodities,World,
+NYMEX:NG1!,NG=F,Natural Gas May 25,World,Commodities,Commodities,World,
+NYMEX:PA1!,PA=F,Palladium Jun 25,World,Commodities,Commodities,World,
+NYMEX:PL1!,PL=F,Platinum Jul 25,World,Commodities,Commodities,World,
+ICEUS:SB1!,SB=F,Sugar #11 Jul 25,World,Commodities,Commodities,World,
+OANDA:XAGUSD,SI=F,Silver May 25,World,Commodities,Commodities,World,
+CBOT:ZC1!,ZC=F,"Corn Futures,Jul-2025",World,Commodities,Commodities,World,
+CBOT:ZS1!,ZS=F,"Soybean Futures,Jul-2025",World,Commodities,Commodities,World,
+CBOT:ZW1!,ZW=F,"Chicago SRW Wheat Futures,Jul-2",World,Commodities,Commodities,World,
+BIST:AKSA,AKSA.IS,Aksa Akrilik Kimya Sanayii A.S.,IST,Consumer Cyclical,Textile Manufacturing,Turkey,40481697792.0
+BIST:AKSEN,AKSEN.IS,Aksa Enerji Üretim A.S.,IST,Utilities,Utilities - Independent Power Producers,Turkey,39880577024.0
+BIST:ALARK,ALARK.IS,Alarko Holding A.S.,IST,Industrials,Conglomerates,Turkey,42322931712.0
+BIST:ALFAS,ALFAS.IS,Alfa Solar Enerji Sanayi ve Ticaret A.S.,IST,Technology,Solar,Turkey,17531518976.0
+BIST:ALTNY,ALTNY.IS,ALTINAY SAVUNMA,IST,Industrials,Aerospace & Defense,Turkey,19164696576.0
+BIST:ANHYT,ANHYT.IS,Anadolu Hayat Emeklilik Anonim Sirketi,IST,Financial Services,Insurance - Life,Turkey,39538499584.0
+BIST:ANSGR,ANSGR.IS,Anadolu Anonim Türk Sigorta Sirketi,IST,Financial Services,Insurance - Diversified,Turkey,44500000768.0
+BIST:ARCLK,ARCLK.IS,Arçelik Anonim Sirketi,IST,Consumer Cyclical,"Furnishings, Fixtures & Appliances",Turkey,73853886464.0
+BIST:ARDYZ,ARDYZ.IS,Ard Grup Bilisim Teknolojileri Anonim Sirketi,IST,Technology,Software - Infrastructure,Turkey,4118551040.0
+BIST:ASELS,ASELS.IS,ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi,IST,Industrials,Aerospace & Defense,Turkey,583224000512.0
+BIST:ASTOR,ASTOR.IS,Astor Enerji A.S.,IST,Industrials,Electrical Equipment & Parts,Turkey,96606404608.0
+BIST:AVPGY,AVPGY.IS,AVRUPAKENT GMYO,IST,Real Estate,Real Estate - Diversified,Turkey,21400000512.0
+BIST:BERA,BERA.IS,Bera Holding A.S.,IST,Industrials,Conglomerates,Turkey,10432463872.0
+BIST:BIMAS,BIMAS.IS,BIM Birlesik Magazalar A.S.,IST,Consumer Defensive,Grocery Stores,Turkey,264626257920.0
+BIST:BRSAN,BRSAN.IS,Borusan Birlesik Boru Fabrikalari Sanayi ve Ticaret A.S.,IST,Basic Materials,Steel,Turkey,51888553984.0
+BIST:BRYAT,BRYAT.IS,Borusan Yatirim ve Pazarlama A.S.,IST,Basic Materials,Steel,Turkey,52540788736.0
+BIST:BSOKE,BSOKE.IS,Batisöke Söke Çimento Sanayii T.A.S.,IST,Basic Materials,Building Materials,Turkey,29920002048.0
+BIST:BTCIM,BTCIM.IS,Batiçim Bati Anadolu Çimento Sanayii Anonim Sirketi,IST,Basic Materials,Building Materials,Turkey,29183401984.0
+BIST:CANTE,CANTE.IS,Çan2 Termik A.S.,IST,Utilities,Utilities - Independent Power Producers,Turkey,11830000640.0
+BIST:CCOLA,CCOLA.IS,Coca-Cola Içecek Anonim Sirketi,IST,Consumer Defensive,Beverages - Non-Alcoholic,Turkey,149557379072.0
+BIST:CIMSA,CIMSA.IS,Çimsa Çimento Sanayi ve Ticaret A.S.,IST,Basic Materials,Building Materials,Turkey,47610503168.0
+BIST:CLEBI,CLEBI.IS,Çelebi Hava Servisi A.S.,IST,Industrials,Airports & Air Services,Turkey,71745748992.0
+BIST:CWENE,CWENE.IS,CW Enerji Mühendislik Ticaret ve Sanayi Anonim Sirketi,IST,Technology,Solar,Turkey,16510000128.0
+BIST:DOAS,DOAS.IS,Dogus Otomotiv Servis ve Ticaret A.S.,IST,Consumer Cyclical,Auto & Truck Dealerships,Turkey,44407808000.0
+BIST:DOHOL,DOHOL.IS,Dogan Sirketler Grubu Holding A.S.,IST,Industrials,Conglomerates,Turkey,42000531456.0
+BIST:ECILC,ECILC.IS,"EIS Eczacibasi Ilaç, Sinai ve Finansal Yatirimlar Sanayi ve Ticaret A.S.",IST,Healthcare,Drug Manufacturers - Specialty & Generic,Turkey,30507776000.0
+BIST:EFORC,EFORC.IS,EFOR CAY SANAYI,IST,Consumer Defensive,Farm Products,Turkey,30873151488.0
+BIST:EGEEN,EGEEN.IS,Ege Endüstri ve Ticaret A.S.,IST,Consumer Cyclical,Auto Parts,Turkey,28822499328.0
+BIST:EKGYO,EKGYO.IS,Emlak Konut Gayrimenkul Yatirim Ortakligi A.S.,IST,Real Estate,REIT - Residential,Turkey,42249326592.0
+BIST:ENERY,ENERY.IS,Enerya Enerji Anonim Sirketi,IST,Utilities,Utilities - Regulated Gas,Turkey,40679997440.0
+BIST:ENJSA,ENJSA.IS,Enerjisa Enerji A.S.,IST,Utilities,Utilities - Regulated Electric,Turkey,69742182400.0
+BIST:ENKAI,ENKAI.IS,Enka Insaat ve Sanayi A.S.,IST,Industrials,Engineering & Construction,Turkey,350884986880.0
+BIST:EREGL,EREGL.IS,Eregli Demir ve Çelik Fabrikalari T.A.S.,IST,Basic Materials,Steel,Turkey,140890603520.0
+BIST:EUPWR,EUPWR.IS,Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret Anonim Sirketi,IST,Industrials,Electrical Equipment & Parts,Turkey,17806798848.0
+BIST:FROTO,FROTO.IS,Ford Otomotiv Sanayi A.S.,IST,Consumer Cyclical,Auto Manufacturers,Turkey,324065394688.0
+BIST:GARAN,GARAN.IS,Turkiye Garanti Bankasi A.S.,IST,Financial Services,Banks - Regional,Turkey,428820004864.0
+BIST:GESAN,GESAN.IS,Girisim Elektrik Sanayi Taahhüt ve Ticaret A.S.,IST,Industrials,Engineering & Construction,Turkey,19669598208.0
+BIST:GOLTS,GOLTS.IS,Göltas Göller Bölgesi Cimento Sanayi ve Ticaret A.S.,IST,Basic Materials,Building Materials,Turkey,7370999808.0
+BIST:GRTHO,GRTHO.IS,GRAINTURK Holding A.S.,IST,Consumer Defensive,Farm Products,Turkey,43499999232.0
+BIST:GSRAY,GSRAY.IS,Galatasaray Sportif Sinai ve Ticari Yatirimlar A.S.,IST,Communication Services,Entertainment,Turkey,11070000128.0
+BIST:GUBRF,GUBRF.IS,Gübre Fabrikalari Türk Anonim Sirketi,IST,Basic Materials,Agricultural Inputs,Turkey,98446499840.0
+BIST:HALKB,HALKB.IS,Türkiye Halk Bankasi A.S.,IST,Financial Services,Banks - Regional,Turkey,142186790912.0
+BIST:HEKTS,HEKTS.IS,Hektas Ticaret T.A.S.,IST,Basic Materials,Agricultural Inputs,Turkey,26638800896.0
+BIST:IEYHO,IEYHO.IS,Isiklar Enerji ve Yapi Holding A.S.,IST,Consumer Cyclical,Textile Manufacturing,Turkey,6996080640.0
+BIST:ISCTR,ISCTR.IS,Türkiye Is Bankasi A.S.,IST,Financial Services,Banks - Regional,Turkey,281724682240.0
+BIST:ISMEN,ISMEN.IS,Is Yatirim Menkul Degerler Anonim Sirketi,IST,Financial Services,Capital Markets,Turkey,56189997056.0
+BIST:KARSN,KARSN.IS,Karsan Otomotiv Sanayii ve Ticaret A.S.,IST,Consumer Cyclical,Auto Manufacturers,Turkey,9377999872.0
+BIST:KCAER,KCAER.IS,Kocaer Celik Sanayi ve Ticaret Anonim Sirketi,IST,Basic Materials,Steel,Turkey,25469501440.0
+BIST:KCHOL,KCHOL.IS,Koç Holding A.S.,IST,Industrials,Conglomerates,Turkey,381519003648.0
+BIST:KONTR,KONTR.IS,Kontrolmatik Teknoloji Enerji Ve Muhendislik Anonim Sirketi,IST,Industrials,Conglomerates,Turkey,18057000960.0
+BIST:KONYA,KONYA.IS,Konya Çimento Sanayii Anonim Sirketi,IST,Basic Materials,Building Materials,Turkey,30483367936.0
+BIST:KOZAA,KOZAA.IS,Koza Anadolu Metal Madencilik Isletmeleri A.S.,IST,Basic Materials,Other Industrial Metals & Mining,Turkey,35451109376.0
+BIST:KOZAL,KOZAL.IS,Koza Altin Isletmeleri A.S.,IST,Basic Materials,Gold,Turkey,89285697536.0
+BIST:KRDMD,KRDMD.IS,Kardemir Karabük Demir Çelik Sanayi Ve Ticaret A.S.,IST,Basic Materials,Steel,Turkey,29510479872.0
+BIST:KTLEV,KTLEV.IS,Katilimevim Tasarruf Finansman Anonim Sirketi,IST,Financial Services,Credit Services,Turkey,122578001920.0
+BIST:LMKDC,LMKDC.IS,LIMAK DOGU ANADOLU,IST,Basic Materials,Building Materials,Turkey,15485400064.0
+BIST:MAGEN,MAGEN.IS,Margün Enerji Üretim Sanayi ve Ticaret A.S.,IST,Utilities,Utilities - Renewable,Turkey,33252401152.0
+BIST:MAVI,MAVI.IS,Mavi Giyim Sanayi ve Ticaret A.S.,IST,Consumer Cyclical,Apparel Retail,Turkey,25404522496.0
+BIST:MGROS,MGROS.IS,Migros Ticaret A.S.,IST,Consumer Defensive,Grocery Stores,Turkey,87176036352.0
+BIST:MIATK,MIATK.IS,MIA Teknoloji Anonim Sirketi,IST,Technology,Information Technology Services,Turkey,18001358848.0
+BIST:MPARK,MPARK.IS,MLP Saglik Hizmetleri A.S.,IST,Healthcare,Medical Care Facilities,Turkey,62795194368.0
+BIST:OBAMS,OBAMS.IS,OBA MAKARNACILIK,IST,Consumer Defensive,Packaged Foods,Turkey,33080119296.0
+BIST:ODAS,ODAS.IS,Odas Elektrik Üretim Sanayi Ticaret A.S.,IST,Utilities,Utilities - Regulated Electric,Turkey,6860000256.0
+BIST:OTKAR,OTKAR.IS,Otokar Otomotiv ve Savunma Sanayi A.S.,IST,Consumer Cyclical,Auto Manufacturers,Turkey,48179998720.0
+BIST:OYAKC,OYAKC.IS,OYAK Çimento Fabrikalari A.S.,IST,Basic Materials,Building Materials,Turkey,132431618048.0
+BIST:PASEU,PASEU.IS,Pasifik Eurasia Lojistik Dis Ticaret A.S.,IST,Industrials,Integrated Freight & Logistics,Turkey,39648002048.0
+BIST:PETKM,PETKM.IS,Petkim Petrokimya Holding Anonim Sirketi,IST,Basic Materials,Chemicals,Turkey,41842946048.0
+BIST:PGSUS,PGSUS.IS,Pegasus Hava Tasimaciligi Anonim Sirketi,IST,Industrials,Airlines,Turkey,124849995776.0
+BIST:RALYH,RALYH.IS,Ral Yatirim Holding A.S.,IST,Industrials,Engineering & Construction,Turkey,35797499904.0
+BIST:REEDR,REEDR.IS,Reeder Teknoloji Sanayi ve Ticaret Anonim Sirketi,IST,Technology,Consumer Electronics,Turkey,11266999296.0
+BIST:RYGYO,RYGYO.IS,Reysas Gayrimenkul Yatirim Ortakligi A.S.,IST,Real Estate,REIT - Industrial,Turkey,26499999744.0
+BIST:SAHOL,SAHOL.IS,Haci Ömer Sabanci Holding A.S.,IST,Financial Services,Banks - Regional,Turkey,158913495040.0
+BIST:SASA,SASA.IS,Sasa Polyester Sanayi A.S.,IST,Consumer Cyclical,Textile Manufacturing,Turkey,177891328000.0
+BIST:SELEC,SELEC.IS,Selçuk Ecza Deposu Ticaret ve Sanayi A.S.,IST,Healthcare,Medical Distribution,Turkey,39837151232.0
+BIST:SISE,SISE.IS,Türkiye Sise Ve Cam Fabrikalari A.S.,IST,Industrials,Conglomerates,Turkey,107334877184.0
+BIST:SKBNK,SKBNK.IS,Sekerbank T.A.S.,IST,Financial Services,Banks - Regional,Turkey,12824999936.0
+BIST:SMRTG,SMRTG.IS,Smart Günes Enerjisi Teknolojileri Arastirma ve Gelistirme Üretim Sanayi ve Ticaret A.S.,IST,Technology,Solar,Turkey,19339689984.0
+BIST:SOKM,SOKM.IS,Sok Marketler Ticaret A.S.,IST,Consumer Cyclical,Department Stores,Turkey,22248374272.0
+BIST:TABGD,TABGD.IS,TAB GIDA,IST,Consumer Cyclical,Restaurants,Turkey,44419641344.0
+BIST:TAVHL,TAVHL.IS,TAV Havalimanlari Holding A.S.,IST,Industrials,Airports & Air Services,Turkey,84208533504.0
+BIST:TCELL,TCELL.IS,Turkcell Iletisim Hizmetleri A.S.,IST,Communication Services,Telecom Services,Turkey,203693490176.0
+BIST:THYAO,THYAO.IS,Türk Hava Yollari Anonim Ortakligi,IST,Industrials,Airlines,Turkey,433172250624.0
+BIST:TKFEN,TKFEN.IS,Tekfen Holding Anonim Sirketi,IST,Basic Materials,Agricultural Inputs,Turkey,51249098752.0
+BIST:TOASO,TOASO.IS,Tofas Türk Otomobil Fabrikasi Anonim Sirketi,IST,Consumer Cyclical,Auto Manufacturers,Turkey,97050001408.0
+BIST:TSKB,TSKB.IS,Türkiye Sinai Kalkinma Bankasi A.S.,IST,Financial Services,Banks - Regional,Turkey,29259999232.0
+BIST:TTKOM,TTKOM.IS,Türk Telekomünikasyon Anonim Sirketi,IST,Communication Services,Telecom Services,Turkey,185499992064.0
+BIST:TTRAK,TTRAK.IS,Türk Traktör ve Ziraat Makineleri A.S.,IST,Industrials,Farm & Heavy Construction Machinery,Turkey,66944823296.0
+BIST:TUPRS,TUPRS.IS,Türkiye Petrol Rafinerileri A.S.,IST,Energy,Oil & Gas Refining & Marketing,Turkey,238730526720.0
+BIST:TURSG,TURSG.IS,Türkiye Sigorta A.S.,IST,Financial Services,Insurance - Property & Casualty,Turkey,95400001536.0
+BIST:ULKER,ULKER.IS,Ülker Bisküvi Sanayi A.S.,IST,Consumer Defensive,Confectioners,Turkey,40583434240.0
+BIST:VAKBN,VAKBN.IS,Türkiye Vakiflar Bankasi Türk Anonim Ortakligi,IST,Financial Services,Banks - Regional,Turkey,201293168640.0
+BIST:VESTL,VESTL.IS,Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi,IST,Consumer Cyclical,"Furnishings, Fixtures & Appliances",Turkey,15477939200.0
+BIST:YEOTK,YEOTK.IS,Yeo Teknoloji Enerji Ve Endustri Anonim Sirketi,IST,Industrials,Engineering & Construction,Turkey,16294500352.0
+BIST:YKBNK,YKBNK.IS,Yapi ve Kredi Bankasi A.S.,IST,Financial Services,Banks - Regional,Turkey,199519338496.0
+BIST:ZOREN,ZOREN.IS,Zorlu Enerji Elektrik Üretim A.S.,IST,Utilities,Utilities - Diversified,Turkey,16499999744.0
+EURONEXT:ASML,ASML.AS,ASML Holding N.V.,AMS,Technology,Semiconductor Equipment & Materials,Netherlands,221843439616.0
+MIL:ENEL,ENEL.MI,Enel SpA,MIL,Utilities,Utilities - Diversified,Italy,74859716608.0
+EURONEXT:EL,EL.PA,EssilorLuxottica Société anonyme,PAR,Healthcare,Medical Instruments & Supplies,France,112583073792.0
+EURONEXT:OR,OR.PA,L'Oréal S.A.,PAR,Consumer Defensive,Household & Personal Products,France,182654566400.0
+EURONEXT:AIR,AIR.PA,Airbus SE,PAR,Industrials,Aerospace & Defense,Netherlands,107524472832.0
+EURONEXT:BN,BN.PA,Danone S.A.,PAR,Consumer Defensive,Packaged Foods,France,47301038080.0
+EURONEXT:RI,RI.PA,Pernod Ricard SA,PAR,Consumer Defensive,Beverages - Wineries & Distilleries,France,23212748800.0
+XETR:ALV,ALV.DE,Allianz SE,GER,Financial Services,Insurance - Diversified,Germany,134377005056.0
+XETR:BAYN,BAYN.DE,Bayer Aktiengesellschaft,GER,Healthcare,Drug Manufacturers - General,Germany,20660377600.0
+XETR:SAP,SAP.DE,SAP SE,GER,Technology,Software - Application,Germany,263649329152.0
+EURONEXT:SU,SU.PA,Schneider Electric S.E.,PAR,Industrials,Specialty Industrial Machinery,France,115082559488.0
+EURONEXT:AD,AD.AS,Koninklijke Ahold Delhaize N.V.,AMS,Consumer Defensive,Grocery Stores,Netherlands,31541868544.0
+MIL:RACE,RACE.MI,Ferrari N.V.,MIL,Consumer Cyclical,Auto Manufacturers,Italy,68786364416.0
+XETR:BAS,BAS.DE,BASF SE,GER,Basic Materials,Chemicals,Germany,37441298432.0
+BME:BBVA,BBVA.MC,"Banco Bilbao Vizcaya Argentaria, S.A.",MCE,Financial Services,Banks - Diversified,Spain,68302290944.0
+EURONEXT:SGO,SGO.PA,Compagnie de Saint-Gobain S.A.,PAR,Industrials,Building Products & Equipment,France,43019870208.0
+BME:IBE,IBE.MC,"Iberdrola, S.A.",MCE,Utilities,Utilities - Diversified,Spain,97718231040.0
+MIL:ISP,ISP.MI,Intesa Sanpaolo S.p.A.,MIL,Financial Services,Banks - Regional,Italy,77485416448.0
+EURONEXT:DG,DG.PA,Vinci SA,PAR,Industrials,Engineering & Construction,France,66980524032.0
+EURONEXT:SAF,SAF.PA,Safran SA,PAR,Industrials,Aerospace & Defense,France,89088770048.0
+MIL:UCG,UCG.MI,UniCredit S.p.A.,MIL,Financial Services,Banks - Regional,Italy,77712654336.0
+XETR:DB1,DB1.DE,Deutsche Börse AG,GER,Financial Services,Financial Data & Stock Exchanges,Germany,49877348352.0
+MIL:ENI,ENI.MI,Eni S.p.A.,MIL,Energy,Oil & Gas Integrated,Italy,37492801536.0
+EURONEXT:KER,KER.PA,Kering SA,PAR,Consumer Cyclical,Luxury Goods,France,20164425728.0
+EURONEXT:ADYEN,ADYEN.AS,Adyen N.V.,AMS,Technology,Software - Infrastructure,Netherlands,44104478720.0
+XETR:ADS,ADS.DE,adidas AG,GER,Consumer Cyclical,Footwear & Accessories,Germany,35468754944.0
+XETR:DTE,DTE.DE,Deutsche Telekom AG,GER,Communication Services,Telecom Services,Germany,155588640768.0
+EURONEXT:PRX,PRX.AS,Prosus N.V.,AMS,Communication Services,Internet Content & Information,Netherlands,85450465280.0
+EURONEXT:TTE,TTE.PA,TotalEnergies SE,PAR,Energy,Oil & Gas Integrated,France,114454855680.0
+OMXHEX:NDA_FI,NDA-FI.HE,Nordea Bank Abp,HEL,Financial Services,Banks - Regional,Finland,39272812544.0
+MIL:STLAM,STLAM.MI,Stellantis N.V.,MIL,Consumer Cyclical,Auto Manufacturers,Netherlands,23882225664.0
+EURONEXT:ABI,ABI.BR,Anheuser-Busch InBev SA/NV,BRU,Consumer Defensive,Beverages - Brewers,Belgium,112464142336.0
+BME:ITX,ITX.MC,"Industria de Diseño Textil, S.A.",MCE,Consumer Cyclical,Apparel Retail,Spain,145940725760.0
+EURONEXT:BNP,BNP.PA,BNP Paribas SA,PAR,Financial Services,Banks - Regional,France,79904358400.0
+XETR:SIE,SIE.DE,Siemens Aktiengesellschaft,GER,Industrials,Specialty Industrial Machinery,Germany,146477252608.0
+XETR:DHL,DHL.DE,Deutsche Post AG,GER,Industrials,Integrated Freight & Logistics,Germany,41262211072.0
+EURONEXT:RMS,RMS.PA,Hermès International Société en commandite par actions,PAR,Consumer Cyclical,Luxury Goods,France,239755362304.0
+EURONEXT:MC,MC.PA,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",PAR,Consumer Cyclical,Luxury Goods,France,242164350976.0
+XETR:VOW,VOW.DE,Volkswagen AG,GER,Consumer Cyclical,Auto Manufacturers,Germany,45656129536.0
+XETR:IFX,IFX.DE,Infineon Technologies AG,GER,Technology,Semiconductors,Germany,34583642112.0
+XETR:MBG,MBG.DE,Mercedes-Benz Group AG,GER,Consumer Cyclical,Auto Manufacturers,Germany,48366665728.0
+OMXHEX:NOKIA,NOKIA.HE,Nokia Oyj,HEL,Technology,Communication Equipment,Finland,24352505856.0
+EURONEXT:INGA,INGA.AS,ING Groep N.V.,AMS,Financial Services,Banks - Diversified,Netherlands,49884676096.0
+XETR:BMW,BMW.DE,Bayerische Motoren Werke Aktiengesellschaft,GER,Consumer Cyclical,Auto Manufacturers,Germany,43490516992.0
+BME:SAN,SAN.MC,"Banco Santander, S.A.",MCE,Financial Services,Banks - Diversified,Spain,88808529920.0
+EURONEXT:SAN,SAN.PA,Sanofi,PAR,Healthcare,Drug Manufacturers - General,France,110771412992.0
+EURONEXT:AI,AI.PA,L'Air Liquide S.A.,PAR,Basic Materials,Specialty Chemicals,France,99857653760.0
+XETR:MUV2,MUV2.DE,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,GER,Financial Services,Insurance - Reinsurance,Germany,78843600896.0
+EURONEXT:CS,CS.PA,AXA SA,PAR,Financial Services,Insurance - Diversified,France,85957550080.0
+SSE:688363,688363.SS,Bloomage BioTechnology Corporation Limited,SHH,Basic Materials,Specialty Chemicals,China,23144628224.0
+SSE:600015,600015.SS,HUAXIA BANK,SHH,Financial Services,Banks - Regional,China,125409419264.0
+SZSE:001979,001979.SZ,"China Merchants Shekou Industrial Zone Holdings Co., Ltd.",SHZ,Real Estate,Real Estate - Development,China,89068060672.0
+SZSE:002027,002027.SZ,"Focus Media Information Technology Co., Ltd.",SHZ,Communication Services,Advertising Agencies,China,103117307904.0
+SSE:601808,601808.SS,China Oilfield Services Limited,SHH,Energy,Oil & Gas Equipment & Services,China,49868771328.0
+SZSE:002230,002230.SZ,"iFLYTEK CO.,LTD",SHZ,Technology,Software - Application,China,104904491008.0
+SZSE:002179,002179.SZ,"Jonhon Optronic Technology Co., Ltd.",SHZ,Technology,Electronic Components,China,88353038336.0
+SSE:603993,603993.SS,CMOC Group Limited,SHH,Basic Materials,Other Industrial Metals & Mining,China,143557476352.0
+SSE:600809,600809.SS,"Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",SHH,Consumer Defensive,Beverages - Wineries & Distilleries,China,262157221888.0
+SSE:600460,600460.SS,SILAN MICROELEC,SHH,Technology,Semiconductors,China,40503463936.0
+SSE:600188,600188.SS,YANKUANG ENERGY,SHH,Energy,Thermal Coal,China,105215000576.0
+SSE:601877,601877.SS,"Zhejiang Chint Electrics Co., Ltd.",SHH,Industrials,Electrical Equipment & Parts,China,47470747648.0
+SZSE:000617,000617.SZ,CNPC Capital Company Limited,SHZ,Financial Services,Financial Conglomerates,China,90770276352.0
+SSE:600029,600029.SS,SOUTHERN AIRLINES,SHH,Industrials,Airlines,China,92653404160.0
+SSE:601066,601066.SS,"CSC Financial Co., Ltd.",SHH,Financial Services,Capital Markets,China,153492668416.0
+SZSE:300661,300661.SZ,SG Micro Corp,SHZ,Technology,Semiconductors,China,54347833344.0
+SZSE:000002,000002.SZ,"China Vanke Co., Ltd.",SHZ,Real Estate,Real Estate - Development,China,81984831488.0
+SZSE:300496,300496.SZ,"Thunder Software Technology Co.,Ltd.",SHZ,Technology,Software - Application,China,23897624576.0
+SSE:600745,600745.SS,"Wingtech Technology Co.,Ltd",SHH,Technology,Communication Equipment,China,39702102016.0
+SSE:601607,601607.SS,"Shanghai Pharmaceuticals Holding Co., Ltd",SHH,Healthcare,Medical Distribution,China,60575334400.0
+SSE:688981,688981.SS,Semiconductor Manufacturing International Corporation,SHH,Technology,Semiconductors,China,440014372864.0
+SSE:600010,600010.SS,BAO STEEL,SHH,Basic Materials,Steel,China,81066590208.0
+SZSE:300308,300308.SZ,"Zhongji Innolight Co., Ltd.",SHZ,Technology,Communication Equipment,China,89690595328.0
+SZSE:000596,000596.SZ,"Anhui Gujing Distillery Co., Ltd.",SHZ,Consumer Defensive,Beverages - Wineries & Distilleries,China,82749644800.0
+SZSE:300919,300919.SZ,"CNGR Advanced Material Co.,Ltd.",SHZ,Basic Materials,Specialty Chemicals,China,30408570880.0
+SZSE:001289,001289.SZ,China Longyuan Power Group Corporation Limited,SHZ,Utilities,Utilities - Renewable,China,104704483328.0
+SSE:600887,600887.SS,"Inner Mongolia Yili Industrial Group Co., Ltd.",SHH,Consumer Defensive,Packaged Foods,China,185120358400.0
+SZSE:002920,002920.SZ,"Huizhou Desay SV Automotive Co., Ltd.",SHZ,Consumer Cyclical,Auto Parts,China,56438308864.0
+SZSE:000786,000786.SZ,Beijing New Building Materials Public Limited Company,SHZ,Industrials,Building Products & Equipment,China,49941913600.0
+SZSE:002841,002841.SZ,Guangzhou Shiyuan Electronic Technology Company Limited,SHZ,Technology,Electronic Components,China,23149524992.0
+SZSE:300014,300014.SZ,"EVE Energy Co., Ltd.",SHZ,Industrials,Electrical Equipment & Parts,China,83342639104.0
+SSE:600845,600845.SS,"Shanghai Baosight Software Co.,Ltd.",SHH,Technology,Software - Application,China,66967441408.0
+SSE:603392,603392.SS,"Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.",SHH,Healthcare,Biotechnology,China,84699783168.0
+SSE:688126,688126.SS,"National Silicon Industry Group Co.,Ltd.",SHH,Technology,Semiconductor Equipment & Materials,China,49806372864.0
+SZSE:002594,002594.SZ,BYD Company Limited,SHZ,Consumer Cyclical,Auto Manufacturers,China,1062629867520.0
+SZSE:000733,000733.SZ,"China Zhenhua (Group) Science & Technology Co., Ltd",SHZ,Technology,Electronic Components,China,29875251200.0
+SSE:600489,600489.SS,ZHONGJIN GOLD,SHH,Basic Materials,Gold,China,74793992192.0
+SSE:600519,600519.SS,"Kweichow Moutai Co., Ltd.",SHH,Consumer Defensive,Beverages - Wineries & Distilleries,China,1948366143488.0
+SZSE:002007,002007.SZ,Hualan Biological Engineering Inc.,SHZ,Healthcare,Biotechnology,China,29845690368.0
+SZSE:300751,300751.SZ,"Suzhou Maxwell Technologies Co., Ltd.",SHZ,Technology,Semiconductor Equipment & Materials,China,19731580928.0
+SSE:600196,600196.SS,FOSUN PHARM,SHH,Healthcare,Drug Manufacturers - Specialty & Generic,China,58000523264.0
+SSE:603833,603833.SS,Oppein Home Group Inc.,SHH,Consumer Cyclical,"Furnishings, Fixtures & Appliances",China,41361489920.0
+SSE:601916,601916.SS,"China Zheshang Bank Co., Ltd",SHH,Financial Services,Banks - Regional,China,78986010624.0
+SZSE:000858,000858.SZ,"Wuliangye Yibin Co.,Ltd.",SHZ,Consumer Defensive,Beverages - Wineries & Distilleries,China,505929039872.0
+SZSE:000651,000651.SZ,"Gree Electric Appliances, Inc. of Zhuhai",SHZ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",China,253127704576.0
+SSE:600016,600016.SS,MINSHENG BANK,SHH,Financial Services,Banks - Regional,China,169979428864.0
+SZSE:002241,002241.SZ,Goertek Inc.,SHZ,Technology,Consumer Electronics,China,74497728512.0
+SZSE:002648,002648.SZ,"Satellite Chemical Co.,Ltd.",SHZ,Basic Materials,Specialty Chemicals,China,55245856768.0
+SSE:600741,600741.SS,HUAYU Automotive Systems Company Limited,SHH,Consumer Cyclical,Auto Parts,China,51704606720.0
+SZSE:000063,000063.SZ,ZTE Corporation,SHZ,Technology,Communication Equipment,China,145264050176.0
+SSE:600941,600941.SS,China Mobile Limited,SHH,Communication Services,Telecom Services,Hong Kong,1713539776512.0
+SSE:601985,601985.SS,"China National Nuclear Power Co., Ltd.",SHH,Utilities,Utilities - Regulated Electric,China,192927842304.0
+SSE:601169,601169.SS,"Bank of Beijing Co., Ltd.",SHH,Financial Services,Banks - Regional,China,129606590464.0
+SSE:600886,600886.SS,"SDIC Power Holdings Co., Ltd",SHH,Utilities,Utilities - Renewable,China,116705468416.0
+SZSE:002460,002460.SZ,"Ganfeng Lithium Group Co., Ltd.",SHZ,Basic Materials,Chemicals,China,56920694784.0
+SSE:600570,600570.SS,Hundsun Technologies Inc.,SHH,Technology,Software - Application,China,49223856128.0
+SSE:600760,600760.SS,AVIC Shenyang Aircraft Company Limited,SHH,Industrials,Aerospace & Defense,China,121801940992.0
+SZSE:300347,300347.SZ,"Hangzhou Tigermed Consulting Co., Ltd",SHZ,Healthcare,Diagnostics & Research,China,35881455616.0
+SSE:603260,603260.SS,"Hoshine Silicon Industry Co., Ltd.",SHH,Basic Materials,Chemicals,China,63768408064.0
+SSE:601939,601939.SS,China Construction Bank Corporation,SHH,Financial Services,Banks - Diversified,China,1589553790976.0
+SZSE:002916,002916.SZ,Shennan Circuit Company Limited,SHZ,Technology,Electronic Components,China,56878174208.0
+SSE:601225,601225.SS,Shaanxi Coal Industry Company Limited,SHH,Energy,Thermal Coal,China,195354230784.0
+SSE:600132,600132.SS,CHONGQING BREWERY,SHH,Consumer Defensive,Beverages - Brewers,China,27673462784.0
+SSE:688008,688008.SS,"Montage Technology Co., Ltd.",SHH,Technology,Semiconductors,China,84290887680.0
+SSE:600233,600233.SS,YTO EXPRESS,SHH,Industrials,Integrated Freight & Logistics,China,44807749632.0
+SSE:688012,688012.SS,Advanced Micro-Fabrication Equipment Inc. China,SHH,Technology,Semiconductor Equipment & Materials,China,117950431232.0
+SSE:601100,601100.SS,"Jiangsu Hengli Hydraulic Co.,Ltd",SHH,Industrials,Specialty Industrial Machinery,China,96807198720.0
+SSE:600938,600938.SS,CNOOC Limited,SHH,Energy,Oil & Gas E&P,Hong Kong,780726173696.0
+SSE:603501,603501.SS,"Will Semiconductor Co., Ltd.",SHH,Technology,Semiconductors,China,151790174208.0
+SZSE:000895,000895.SZ,"Henan Shuanghui Investment & Development Co.,Ltd.",SHZ,Consumer Defensive,Packaged Foods,China,94204108800.0
+SSE:600009,600009.SS,SH AIRPORT,SHH,Industrials,Airports & Air Services,China,80626753536.0
+SSE:603195,603195.SS,"Goneo Group Co., Ltd.",SHH,Industrials,Electrical Equipment & Parts,China,92492816384.0
+SSE:605117,605117.SS,"Ningbo Deye Technology Group Co., Ltd.",SHH,Consumer Cyclical,"Furnishings, Fixtures & Appliances",China,54865469440.0
+SSE:601211,601211.SS,"Guotai Haitong Securities Co., Ltd.",SHH,Financial Services,Capital Markets,China,275769786368.0
+SSE:601155,601155.SS,"Seazen Holdings Co., Ltd",SHH,Real Estate,Real Estate - Development,China,30428313600.0
+SZSE:300750,300750.SZ,"Contemporary Amperex Technology Co., Limited",SHZ,Industrials,Electrical Equipment & Parts,China,1018770685952.0
+SZSE:002202,002202.SZ,"Goldwind Science&Technology Co., Ltd.",SHZ,Industrials,Specialty Industrial Machinery,China,31536003072.0
+SSE:600958,600958.SS,Orient Securities Company Limited,SHH,Financial Services,Capital Markets,China,72706359296.0
+SZSE:000776,000776.SZ,"GF Securities Co., Ltd.",SHZ,Financial Services,Capital Markets,China,106292101120.0
+SZSE:000333,000333.SZ,"Midea Group Co., Ltd.",SHZ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",China,543868321792.0
+SSE:600547,600547.SS,"Shandong Gold Mining Co., Ltd.",SHH,Basic Materials,Gold,China,143303884800.0
+SSE:600875,600875.SS,Dongfang Electric Corporation Limited,SHH,Industrials,Specialty Industrial Machinery,China,50389786624.0
+SZSE:002812,002812.SZ,"Yunnan Energy New Material Co., Ltd.",SHZ,Consumer Cyclical,Packaging & Containers,China,27582502912.0
+SSE:601006,601006.SS,"Daqin Railway Co., Ltd.",SHH,Industrials,Railroads,China,135993597952.0
+SSE:600150,600150.SS,CHINA CSSC,SHH,Industrials,Aerospace & Defense,China,129789919232.0
+SSE:600061,600061.SS,SDIC CAPITAL,SHH,Financial Services,Capital Markets,China,43798761472.0
+SSE:688036,688036.SS,"Shenzhen Transsion Holdings Co., Ltd.",SHH,Technology,Consumer Electronics,China,94649049088.0
+SSE:601117,601117.SS,"China National Chemical Engineering Co., Ltd",SHH,Industrials,Engineering & Construction,China,43249807360.0
+SSE:601398,601398.SS,Industrial and Commercial Bank of China Limited,SHH,Financial Services,Banks - Diversified,China,2336969195520.0
+SSE:601689,601689.SS,"Ningbo Tuopu Group Co.,Ltd.",SHH,Consumer Cyclical,Auto Parts,China,87117922304.0
+SSE:688256,688256.SS,Cambricon Technologies Corporation Limited,SHH,Technology,Semiconductors,China,290132623360.0
+SZSE:301269,301269.SZ,"Empyrean Technology Co., Ltd.",SHZ,Technology,Software - Application,China,67275948032.0
+SSE:601238,601238.SS,"Guangzhou Automobile Group Co., Ltd.",SHH,Consumer Cyclical,Auto Manufacturers,China,81576796160.0
+SSE:601998,601998.SS,China CITIC Bank Corporation Limited,SHH,Financial Services,Banks - Regional,China,383398182912.0
+SSE:601898,601898.SS,China Coal Energy Company Limited,SHH,Energy,Thermal Coal,China,125409730560.0
+SSE:600803,600803.SS,"ENN Natural Gas Co.,Ltd.",SHH,Utilities,Utilities - Regulated Gas,China,60795875328.0
+SSE:600893,600893.SS,"AECC Aviation Power Co.,Ltd",SHH,Industrials,Aerospace & Defense,China,91243143168.0
+SZSE:000708,000708.SZ,"Citic Pacific Special Steel Group Co., Ltd",SHZ,Basic Materials,Steel,China,60565917696.0
+SSE:600606,600606.SS,Greenland Holdings Corporation Limited,SHH,Real Estate,Real Estate Services,China,25859729408.0
+SSE:688065,688065.SS,Cathay Biotech Inc.,SHH,Basic Materials,Chemicals,China,39389646848.0
+SZSE:002821,002821.SZ,"Asymchem Laboratories (Tianjin) Co., Ltd.",SHZ,Healthcare,Biotechnology,China,22628798464.0
+SSE:600999,600999.SS,"China Merchants Securities Co., Ltd.",SHH,Financial Services,Capital Markets,China,141774192640.0
+SZSE:002938,002938.SZ,"Avary Holding(Shenzhen)Co., Limited",SHZ,Technology,Electronic Components,China,66820898816.0
+SZSE:002410,002410.SZ,Glodon Company Limited,SHZ,Technology,Software - Application,China,26067611648.0
+SZSE:300142,300142.SZ,"Walvax Biotechnology Co., Ltd.",SHZ,Healthcare,Drug Manufacturers - Specialty & Generic,China,16617246720.0
+SZSE:002049,002049.SZ,"Unigroup Guoxin Microelectronics Co., Ltd.",SHZ,Technology,Semiconductors,China,57986768896.0
+SZSE:300015,300015.SZ,"Aier Eye Hospital Group Co., Ltd.",SHZ,Healthcare,Medical Care Facilities,China,120038612992.0
+SZSE:002709,002709.SZ,"Guangzhou Tinci Materials Technology Co., Ltd.",SHZ,Basic Materials,Specialty Chemicals,China,32830928896.0
+SSE:601236,601236.SS,"Hongta Securities Co., Ltd.",SHH,Financial Services,Capital Markets,China,35234418688.0
+SSE:603986,603986.SS,Giga Device Semiconductor Inc.,SHH,Technology,Semiconductors,China,74680074240.0
+SZSE:000977,000977.SZ,"Inspur Electronic Information Industry Co., Ltd.",SHZ,Technology,Computer Hardware,China,71678492672.0
+SSE:601336,601336.SS,New China Life Insurance Company Ltd.,SHH,Financial Services,Insurance - Life,China,129298972672.0
+SSE:601988,601988.SS,Bank of China Limited,SHH,Financial Services,Banks - Diversified,China,1536730988544.0
+SSE:601186,601186.SS,China Railway Construction Corporation Limited,SHH,Industrials,Engineering & Construction,China,101934202880.0
+SSE:603806,603806.SS,"Hangzhou First Applied Material Co., Ltd.",SHH,Technology,Semiconductor Equipment & Materials,China,31383142400.0
+SZSE:000938,000938.SZ,Unisplendour Corporation Limited,SHZ,Technology,Electronics & Computer Distribution,China,73132244992.0
+SSE:601698,601698.SS,"China Satellite Communications Co., Ltd.",SHH,Communication Services,Telecom Services,China,83811893248.0
+SSE:600515,600515.SS,"Hainan Airport Infrastructure Co., Ltd",SHH,Real Estate,Real Estate - Diversified,China,41245335552.0
+SSE:601838,601838.SS,"Bank of Chengdu Co., Ltd.",SHH,Financial Services,Banks - Regional,China,73918398464.0
+SZSE:002252,002252.SZ,"Shanghai RAAS Blood Products Co., Ltd.",SHZ,Healthcare,Biotechnology,China,45403787264.0
+SZSE:000800,000800.SZ,"FAW Jiefang Group Co.,Ltd",SHZ,Consumer Cyclical,Auto Manufacturers,China,36277866496.0
+SSE:600085,600085.SS,TONGRENTANG,SHH,Healthcare,Drug Manufacturers - Specialty & Generic,China,49386631168.0
+SSE:601601,601601.SS,"China Pacific Insurance (Group) Co., Ltd.",SHH,Financial Services,Insurance - Life,China,266809999360.0
+SZSE:300896,300896.SZ,"Imeik Technology Development Co.,Ltd.",SHZ,Healthcare,Medical Instruments & Supplies,China,53952155648.0
+SZSE:300957,300957.SZ,Yunnan Botanee Bio-Technology Group Co.LTD,SHZ,Consumer Defensive,Household & Personal Products,China,17998764032.0
+SSE:600919,600919.SS,"Bank of Jiangsu Co., Ltd.",SHH,Financial Services,Banks - Regional,China,179292209152.0
+SSE:601816,601816.SS,"Beijing-Shanghai High-Speed Railway Co., Ltd.",SHH,Industrials,Railroads,China,290219425792.0
+SZSE:000568,000568.SZ,"Luzhou Laojiao Co.,Ltd",SHZ,Consumer Defensive,Beverages - Wineries & Distilleries,China,190764728320.0
+SSE:600011,600011.SS,HUANENG INT'L,SHH,Utilities,Utilities - Independent Power Producers,China,100048748544.0
+SZSE:000792,000792.SZ,"Qinghai Salt Lake Industry Co.,Ltd",SHZ,Basic Materials,Agricultural Inputs,China,86834667520.0
+SSE:605499,605499.SS,"Eastroc Beverage(Group) Co., Ltd.",SHH,Consumer Defensive,Beverages - Brewers,China,145083629568.0
+SSE:601088,601088.SS,China Shenhua Energy Company Limited,SHH,Energy,Thermal Coal,China,740888936448.0
+SSE:601166,601166.SS,"Industrial Bank Co., Ltd.",SHH,Financial Services,Banks - Regional,China,437922234368.0
+SSE:600276,600276.SS,HENGRUI PHARMA,SHH,Healthcare,Drug Manufacturers - General,China,313655394304.0
+SZSE:002050,002050.SZ,"Zhejiang Sanhua Intelligent Controls Co.,Ltd",SHZ,Industrials,Specialty Industrial Machinery,China,95997067264.0
+SSE:601919,601919.SS,"COSCO SHIPPING Holdings Co., Ltd.",SHH,Industrials,Marine Shipping,China,210855198720.0
+SSE:601328,601328.SS,"Bank of Communications Co., Ltd.",SHH,Financial Services,Banks - Diversified,China,513180762112.0
+SZSE:000157,000157.SZ,"Zoomlion Heavy Industry Science and Technology Co., Ltd.",SHZ,Industrials,Farm & Heavy Construction Machinery,China,61573763072.0
+SSE:600183,600183.SS,SYTECH,SHH,Technology,Electronic Components,China,56725561344.0
+SSE:600905,600905.SS,"China Three Gorges Renewables (Group) Co.,Ltd.",SHH,Utilities,Utilities - Renewable,China,122487619584.0
+SSE:601766,601766.SS,CRRC Corporation Limited,SHH,Industrials,Railroads,China,189241753600.0
+SSE:688599,688599.SS,"Trina Solar Co., Ltd.",SHH,Technology,Solar,China,29900957696.0
+SSE:601868,601868.SS,China Energy Engineering Corporation Limited,SHH,Industrials,Engineering & Construction,China,81611767808.0
+SSE:600050,600050.SS,CHINA UNICOM,SHH,Communication Services,Telecom Services,China,170078339072.0
+SZSE:300498,300498.SZ,"Wens Foodstuff Group Co., Ltd.",SHZ,Consumer Defensive,Farm Products,China,114048188416.0
+SZSE:002459,002459.SZ,"JA Solar Technology Co., Ltd.",SHZ,Technology,Solar,China,32401768448.0
+SSE:603369,603369.SS,"Jiangsu King's Luck Brewery Joint-Stock Co.,Ltd.",SHH,Consumer Defensive,Beverages - Wineries & Distilleries,China,61330092032.0
+SZSE:300122,300122.SZ,"Chongqing Zhifei Biological Products Co., Ltd.",SHZ,Healthcare,Biotechnology,China,51993116672.0
+SSE:601699,601699.SS,"Shanxi Lu'an Environmental Energy Development Co., Ltd.",SHH,Energy,Thermal Coal,China,34131986432.0
+SSE:601318,601318.SS,"Ping An Insurance (Group) Company of China, Ltd.",SHH,Financial Services,Insurance - Life,China,850506285056.0
+SSE:600332,600332.SS,GYBYS,SHH,Healthcare,Medical Distribution,China,40209330176.0
+SSE:601899,601899.SS,Zijin Mining Group Company Limited,SHH,Basic Materials,Gold,China,486520225792.0
+SSE:601799,601799.SS,"Changzhou Xingyu Automotive Lighting Systems Co.,Ltd.",SHH,Consumer Cyclical,Auto Parts,China,35935563776.0
+SSE:603259,603259.SS,"WuXi AppTec Co., Ltd.",SHH,Healthcare,Diagnostics & Research,China,154281672704.0
+SZSE:002475,002475.SZ,"Luxshare Precision Industry Co., Ltd.",SHZ,Technology,Electronic Components,China,223727239168.0
+SSE:601319,601319.SS,The People's Insurance Company (Group) of China Limited,SHH,Financial Services,Insurance - Property & Casualty,China,288747192320.0
+SSE:601728,601728.SS,China Telecom Corporation Limited,SHH,Communication Services,Telecom Services,China,693108146176.0
+SSE:601600,601600.SS,Aluminum Corporation of China Limited,SHH,Basic Materials,Aluminum,China,102163300352.0
+SSE:601615,601615.SS,Ming Yang Smart Energy Group Limited,SHH,Industrials,Specialty Industrial Machinery,China,22987579392.0
+SZSE:000877,000877.SZ,"Tianshan Material Co., Ltd.",SHZ,Basic Materials,Building Materials,China,39534325760.0
+SSE:600346,600346.SS,HLGF,SHH,Basic Materials,Chemicals,China,110091526144.0
+SSE:601377,601377.SS,"Industrial Securities Co.,Ltd.",SHH,Financial Services,Capital Markets,China,50347823104.0
+SSE:600926,600926.SS,"Bank of Hangzhou Co., Ltd.",SHH,Financial Services,Banks - Regional,China,91694858240.0
+SSE:600989,600989.SS,"Ningxia Baofeng Energy Group Co., Ltd.",SHH,Basic Materials,Chemicals,China,113373749248.0
+SZSE:000999,000999.SZ,"China Resources Sanjiu Medical & Pharmaceutical Co., Ltd.",SHZ,Healthcare,Drug Manufacturers - Specialty & Generic,China,57344000000.0
+SSE:601878,601878.SS,"Zheshang Securities Co., Ltd.",SHH,Financial Services,Capital Markets,China,48756707328.0
+SZSE:002493,002493.SZ,"Rongsheng Petrochemical Co., Ltd.",SHZ,Basic Materials,Chemicals,China,81510277120.0
+SSE:600732,600732.SS,"Shanghai Aiko Solar Energy Co.,Ltd.",SHH,Technology,Solar,China,18203095040.0
+SSE:600426,600426.SS,HUALU HENGSHENG,SHH,Basic Materials,Chemicals,China,44226670592.0
+SZSE:000301,000301.SZ,"Jiangsu Eastern Shenghong Co.,Ltd.",SHZ,Basic Materials,Chemicals,China,53881438208.0
+SSE:601138,601138.SS,"Foxconn Industrial Internet Co., Ltd.",SHH,Technology,Communication Equipment,China,353687011328.0
+SSE:601872,601872.SS,"China Merchants Energy Shipping Co., Ltd.",SHH,Energy,Oil & Gas Midstream,China,47804162048.0
+SSE:601668,601668.SS,China State Construction Engineering Corporation Limited,SHH,Industrials,Engineering & Construction,China,225609383936.0
+SZSE:000725,000725.SZ,BOE Technology Group Company Limited,SHZ,Technology,Electronic Components,China,143311323136.0
+SZSE:000001,000001.SZ,"Ping An Bank Co., Ltd.",SHZ,Financial Services,Banks - Regional,China,213853028352.0
+SZSE:002603,002603.SZ,"Shijiazhuang Yiling Pharmaceutical Co., Ltd.",SHZ,Healthcare,Drug Manufacturers - Specialty & Generic,China,22103492608.0
+SSE:600795,600795.SS,"GD Power Development Co.,Ltd",SHH,Utilities,Utilities - Renewable,China,81687044096.0
+SSE:603659,603659.SS,"Shanghai Putailai New Energy Technology Co.,Ltd.",SHH,Basic Materials,Specialty Chemicals,China,39003353088.0
+SSE:600039,600039.SS,SRBG,SHH,Industrials,Engineering & Construction,China,74035339264.0
+SZSE:300433,300433.SZ,"Lens Technology Co., Ltd.",SHZ,Technology,Electronic Components,China,101000757248.0
+SSE:600754,600754.SS,"Shanghai Jin Jiang International Hotels Co., Ltd.",SHH,Consumer Cyclical,Lodging,China,25065170944.0
+SSE:688187,688187.SS,"Zhuzhou CRRC Times Electric Co., Ltd.",SHH,Industrials,Railroads,China,55103660032.0
+SSE:601390,601390.SS,China Railway Group Limited,SHH,Industrials,Engineering & Construction,Hong Kong,130379522048.0
+SSE:600674,600674.SS,Sichuan Chuantou Energy Co.Ltd,SHH,Utilities,Utilities - Independent Power Producers,China,81016029184.0
+SZSE:002371,002371.SZ,"NAURA Technology Group Co., Ltd.",SHZ,Technology,Semiconductor Equipment & Materials,China,243661733888.0
+SSE:601901,601901.SS,"Founder Securities Co., Ltd.",SHH,Financial Services,Capital Markets,China,61164498944.0
+SZSE:000166,000166.SZ,"Shenwan Hongyuan Group Co., Ltd.",SHZ,Financial Services,Capital Markets,Hong Kong,111312035840.0
+SZSE:002311,002311.SZ,"Guangdong Haid Group Co., Limited",SHZ,Consumer Defensive,Packaged Foods,China,86764568576.0
+SSE:600115,600115.SS,CEA,SHH,Industrials,Airlines,China,76751290368.0
+SSE:600036,600036.SS,CMB,SHH,Financial Services,Banks - Regional,China,1059448029184.0
+SSE:601800,601800.SS,China Communications Construction Company Limited,SHH,Industrials,Engineering & Construction,China,129764564992.0
+SZSE:300454,300454.SZ,Sangfor Technologies Inc.,SHZ,Technology,Communication Equipment,China,38032572416.0
+SSE:601688,601688.SS,"Huatai Securities Co., Ltd.",SHH,Financial Services,Capital Markets,Hong Kong,133645303808.0
+SZSE:300628,300628.SZ,"Yealink Network Technology Co., Ltd.",SHZ,Technology,Communication Equipment,China,43323748352.0
+SSE:600690,600690.SS,"Haier Smart Home Co., Ltd.",SHH,Consumer Cyclical,"Furnishings, Fixtures & Appliances",China,214392586240.0
+SZSE:002001,002001.SZ,Zhejiang NHU Company Ltd.,SHZ,Healthcare,Drug Manufacturers - Specialty & Generic,China,66877620224.0
+SZSE:300223,300223.SZ,"Ingenic Semiconductor Co.,Ltd.",SHZ,Technology,Semiconductors,China,32693786624.0
+SSE:601881,601881.SS,"China Galaxy Securities Co., Ltd.",SHH,Financial Services,Capital Markets,China,141096550400.0
+SSE:603290,603290.SS,StarPower Semiconductor Ltd.,SHH,Technology,Semiconductor Equipment & Materials,China,20429441024.0
+SSE:601633,601633.SS,Great Wall Motor Company Limited,SHH,Consumer Cyclical,Auto Manufacturers,China,171616845824.0
+SSE:601989,601989.SS,China Shipbuilding Industry Company Limited,SHH,Industrials,Aerospace & Defense,China,96452460544.0
+SSE:600176,600176.SS,CJS,SHH,Basic Materials,Building Materials,China,47957614592.0
+SZSE:000538,000538.SZ,"Yunnan Baiyao Group Co.,Ltd",SHZ,Healthcare,Drug Manufacturers - Specialty & Generic,China,102077513728.0
+SZSE:300124,300124.SZ,"Shenzhen Inovance Technology Co.,Ltd",SHZ,Industrials,Electrical Equipment & Parts,China,171429806080.0
+SSE:600019,600019.SS,BAO IRON,SHH,Basic Materials,Steel,China,147006717952.0
+SSE:600104,600104.SS,SAIC MOTOR,SHH,Consumer Cyclical,Auto Manufacturers,China,177796612096.0
+SSE:600025,600025.SS,HUANENG HYDROPOWER,SHH,Utilities,Utilities - Renewable,China,166139985920.0
+SZSE:000661,000661.SZ,"Changchun High-Tech Industry (Group) Co., Ltd.",SHZ,Healthcare,Drug Manufacturers - Specialty & Generic,China,35531399168.0
+SSE:601995,601995.SS,China International Capital Corporation Limited,SHH,Financial Services,Capital Markets,China,122718715904.0
+SZSE:300274,300274.SZ,"Sungrow Power Supply Co., Ltd.",SHZ,Industrials,Electrical Equipment & Parts,China,117530271744.0
+SSE:601059,601059.SS,"Cinda Securities Co., Ltd.",SHH,Financial Services,Capital Markets,China,48255840256.0
+SSE:600111,600111.SS,CNREHT,SHH,Basic Materials,Other Industrial Metals & Mining,China,85207195648.0
+SZSE:300059,300059.SZ,"East Money Information Co.,Ltd.",SHZ,Financial Services,Financial Data & Stock Exchanges,China,325654839296.0
+SZSE:003816,003816.SZ,"CGN Power Co., Ltd.",SHZ,Utilities,Utilities - Independent Power Producers,China,168901427200.0
+SSE:601669,601669.SS,"Power Construction Corporation of China, Ltd",SHH,Industrials,Engineering & Construction,China,81824448512.0
+SSE:600089,600089.SS,TEBA,SHH,Industrials,Electrical Equipment & Parts,China,58511306752.0
+SSE:688111,688111.SS,"Beijing Kingsoft Office Software, Inc.",SHH,Technology,Software - Application,China,143197601792.0
+SSE:600372,600372.SS,AVIC AIRBORNE,SHH,Industrials,Aerospace & Defense,China,53905350656.0
+SSE:600018,600018.SS,SHANG PORT GP,SHH,Industrials,Marine Shipping,China,127814877184.0
+SZSE:000069,000069.SZ,"Shenzhen Overseas Chinese Town Co.,Ltd.",SHZ,Consumer Cyclical,Lodging,China,20094400512.0
+SSE:600584,600584.SS,"JCET Group Co., Ltd.",SHH,Technology,Semiconductors,China,59318947840.0
+SZSE:002415,002415.SZ,"Hangzhou Hikvision Digital Technology Co., Ltd.",SHZ,Technology,Computer Hardware,China,266654810112.0
+SZSE:000625,000625.SZ,Chongqing Changan Automobile Company Limited,SHZ,Consumer Cyclical,Auto Manufacturers,China,108283895808.0
+SZSE:002466,002466.SZ,Tianqi Lithium Corporation,SHZ,Basic Materials,Specialty Chemicals,China,40930439168.0
+SSE:688303,688303.SS,"Xinjiang Daqo New Energy Co.,Ltd.",SHH,Industrials,Specialty Industrial Machinery,China,39064272896.0
+SSE:603799,603799.SS,"Zhejiang Huayou Cobalt Co., Ltd",SHH,Basic Materials,Other Industrial Metals & Mining,China,57546420224.0
+SZSE:002736,002736.SZ,"Guosen Securities Co., Ltd.",SHZ,Financial Services,Financial Conglomerates,China,100353769472.0
+SZSE:300316,300316.SZ,"Zhejiang Jingsheng Mechanical & Electrical Co., Ltd.",SHZ,Technology,Semiconductor Equipment & Materials,China,37229936640.0
+SSE:600585,600585.SS,Anhui Conch Cement Company Limited,SHH,Basic Materials,Building Materials,China,126525743104.0
+SSE:688223,688223.SS,"Jinko Solar Co., Ltd.",SHH,Technology,Solar,China,58530418688.0
+SZSE:000425,000425.SZ,"XCMG Construction Machinery Co., Ltd.",SHZ,Industrials,Farm & Heavy Construction Machinery,China,105636823040.0
+SZSE:002074,002074.SZ,"Gotion High-tech Co.,Ltd.",SHZ,Industrials,Electrical Equipment & Parts,China,36580597760.0
+SSE:600309,600309.SS,WANHUA CHEM,SHH,Basic Materials,Specialty Chemicals,China,170362830848.0
+SSE:601857,601857.SS,PetroChina Company Limited,SHH,Energy,Oil & Gas Integrated,China,1398765912064.0
+SZSE:000100,000100.SZ,TCL Technology Group Corporation,SHZ,Technology,Semiconductor Equipment & Materials,China,76806520832.0
+SZSE:002142,002142.SZ,"Bank of Ningbo Co., Ltd.",SHZ,Financial Services,Banks - Regional,China,160004980736.0
+SZSE:002352,002352.SZ,"S.F. Holding Co., Ltd.",SHZ,Industrials,Integrated Freight & Logistics,China,212082851840.0
+SSE:603288,603288.SS,Foshan Haitian Flavouring and Food Company Ltd.,SHH,Consumer Defensive,Packaged Foods,China,234434904064.0
+SSE:600436,600436.SS,PIENTZEHUANG,SHH,Healthcare,Drug Manufacturers - General,China,124283297792.0
+SZSE:000408,000408.SZ,Zangge Mining Company Limited,SHZ,Basic Materials,Chemicals,China,55664656384.0
+SSE:600023,600023.SS,ZHENENG ELEC POWER,SHH,Utilities,Utilities - Independent Power Producers,China,77100023808.0
+SSE:600600,600600.SS,Tsingtao Brewery Company Limited,SHH,Consumer Defensive,Beverages - Brewers,China,92155805696.0
+SSE:600900,600900.SS,"China Yangtze Power Co., Ltd.",SHH,Utilities,Utilities - Renewable,China,717162938368.0
+SSE:600362,600362.SS,JIANGXI COPPER,SHH,Basic Materials,Copper,China,62404616192.0
+SZSE:300999,300999.SZ,"Yihai Kerry Arawana Holdings Co., Ltd",SHZ,Consumer Defensive,Packaged Foods,China,171322245120.0
+SSE:601009,601009.SS,"Bank of Nanjing Co., Ltd.",SHH,Financial Services,Banks - Regional,China,115623002112.0
+SSE:601888,601888.SS,China Tourism Group Duty Free Corporation Limited,SHH,Consumer Cyclical,Specialty Retail,China,132136837120.0
+SSE:600588,600588.SS,"Yonyou Network Technology Co.,Ltd.",SHH,Technology,Software - Application,China,48487227392.0
+SSE:603486,603486.SS,"Ecovacs Robotics Co., Ltd.",SHH,Consumer Cyclical,"Furnishings, Fixtures & Appliances",China,28643938304.0
+SSE:688271,688271.SS,"Shanghai United Imaging Healthcare Co., Ltd.",SHH,Healthcare,Medical Devices,China,106233962496.0
+SSE:601818,601818.SS,China Everbright Bank Company Limited,SHH,Financial Services,Banks - Regional,China,212224917504.0
+SZSE:002236,002236.SZ,"Zhejiang Dahua Technology Co., Ltd.",SHZ,Industrials,Security & Protection Services,China,52092473344.0
+SZSE:002601,002601.SZ,"LB Group Co., Ltd.",SHZ,Basic Materials,Specialty Chemicals,China,39755591680.0
+SSE:600918,600918.SS,"Zhongtai Securities Co., Ltd.",SHH,Financial Services,Capital Markets,China,42648014848.0
+SSE:603899,603899.SS,Shanghai M&G Stationery Inc.,SHH,Industrials,Business Equipment & Supplies,China,29192964096.0
+SSE:601021,601021.SS,"Spring Airlines Co., Ltd.",SHH,Industrials,Airlines,China,53661564928.0
+SZSE:000338,000338.SZ,"Weichai Power Co., Ltd.",SHZ,Consumer Cyclical,Auto Manufacturers,China,132147888128.0
+SSE:601111,601111.SS,Air China Limited,SHH,Industrials,Airlines,China,114408251392.0
+SSE:601618,601618.SS,Metallurgical Corporation of China Ltd.,SHH,Industrials,Engineering & Construction,China,56804175872.0
+SSE:688396,688396.SS,China Resources Microelectronics Limited,SHH,Technology,Semiconductors,China,62739062784.0
+SSE:600030,600030.SS,CITIC SECURITIES,SHH,Financial Services,Capital Markets,China,355129917440.0
+SSE:600660,600660.SS,"Fuyao Glass Industry Group Co., Ltd.",SHH,Consumer Cyclical,Auto Parts,China,139988811776.0
+SZSE:300033,300033.SZ,"Hithink RoyalFlush Information Network Co., Ltd.",SHZ,Technology,Software - Application,China,143265021952.0
+SSE:601865,601865.SS,"Flat Glass Group Co., Ltd.",SHH,Industrials,Building Products & Equipment,China,32270815232.0
+SZSE:002555,002555.SZ,"37 Interactive Entertainment Network Technology Group Co., Ltd.",SHZ,Communication Services,Electronic Gaming & Multimedia,China,34533064704.0
+SZSE:000876,000876.SZ,"New Hope Liuhe Co.,Ltd.",SHZ,Consumer Defensive,Farm Products,China,45485699072.0
+SZSE:300408,300408.SZ,"Chaozhou Three-Circle (Group) Co.,Ltd.",SHZ,Technology,Electronic Components,China,69894758400.0
+SSE:688041,688041.SS,"Hygon Information Technology Co., Ltd.",SHH,Technology,Computer Hardware,China,357297553408.0
+SZSE:300413,300413.SZ,"Mango Excellent Media Co., Ltd.",SHZ,Consumer Cyclical,Internet Retail,China,52941373440.0
+SZSE:002714,002714.SZ,"Muyuan Foods Co., Ltd.",SHZ,Consumer Defensive,Farm Products,China,221242195968.0
+SZSE:002129,002129.SZ,"TCL Zhonghuan Renewable Energy Technology Co.,Ltd.",SHZ,Technology,Semiconductor Equipment & Materials,China,31334180864.0
+SZSE:000768,000768.SZ,AVIC Xi'an Aircraft Industry Group Company Ltd.,SHZ,Industrials,Aerospace & Defense,China,66622676992.0
+SZSE:300450,300450.SZ,"Wuxi Lead Intelligent Equipment CO.,LTD.",SHZ,Industrials,Specialty Industrial Machinery,China,30508795904.0
+SSE:600219,600219.SS,NANSHAN ALUMINIUM,SHH,Basic Materials,Aluminum,China,40299540480.0
+SSE:600438,600438.SS,TONGWEI,SHH,Technology,Solar,China,76578848768.0
+SSE:600048,600048.SS,POLY DEVELOPMENTS,SHH,Real Estate,Real Estate - Development,China,108451831808.0
+SSE:600406,600406.SS,NARI,SHH,Industrials,Specialty Industrial Machinery,China,186103529472.0
+SSE:603019,603019.SS,"Dawning Information Industry Co., Ltd.",SHH,Technology,Computer Hardware,China,95181160448.0
+SZSE:300782,300782.SZ,Maxscend Microelectronics Company Limited,SHZ,Technology,Semiconductors,China,43330457600.0
+SZSE:000983,000983.SZ,"Shanxi Coking Coal Energy Group Co., Ltd.",SHZ,Energy,Thermal Coal,China,37923028992.0
+SSE:601360,601360.SS,360 Security Technology Inc.,SHH,Technology,Software - Infrastructure,China,72865423360.0
+SSE:601288,601288.SS,Agricultural Bank of China Limited,SHH,Financial Services,Banks - Diversified,China,1845013774336.0
+SSE:601012,601012.SS,"LONGi Green Energy Technology Co., Ltd.",SHH,Technology,Semiconductor Equipment & Materials,China,112685604864.0
+SSE:600031,600031.SS,SANY HEAVY INDWorld,SHH,Industrials,Farm & Heavy Construction Machinery,China,162973859840.0
+SZSE:002304,002304.SZ,"Jiangsu Yanghe Distillery Co., Ltd.",SHZ,Consumer Defensive,Beverages - Wineries & Distilleries,China,110031110144.0
+SZSE:002271,002271.SZ,"Beijing Oriental Yuhong Waterproof Technology Co., Ltd.",SHZ,Basic Materials,Specialty Chemicals,China,28616624128.0
+SZSE:000963,000963.SZ,"Huadong Medicine Co., Ltd",SHZ,Healthcare,Drug Manufacturers - Specialty & Generic,China,68987969536.0
+SZSE:300763,300763.SZ,"Ginlong Technologies Co., Ltd.",SHZ,Industrials,Electrical Equipment & Parts,China,20266149888.0
+SSE:688561,688561.SS,Qi An Xin Technology Group Inc.,SHH,Technology,Software - Infrastructure,China,20287942656.0
+SZSE:300979,300979.SZ,Huali Industrial Group Company Limited,SHZ,Consumer Cyclical,Footwear & Accessories,China,64628465664.0
+SSE:601229,601229.SS,"Bank of Shanghai Co., Ltd.",SHH,Financial Services,Banks - Regional,China,148175880192.0
+SSE:600028,600028.SS,SINOPEC,SHH,Energy,Oil & Gas Integrated,China,638119706624.0
+SSE:600000,600000.SS,PU DEV BANK,SHH,Financial Services,Banks - Regional,China,310252732416.0
+SZSE:300759,300759.SZ,"Pharmaron Beijing Co., Ltd.",SHZ,Healthcare,Biotechnology,China,36862484480.0
+SSE:601788,601788.SS,Everbright Securities Company Limited,SHH,Financial Services,Capital Markets,China,68314271744.0
+SZSE:002180,002180.SZ,Ninestar Corporation,SHZ,Technology,Computer Hardware,China,32088422400.0
+SSE:601658,601658.SS,"Postal Savings Bank of China Co., Ltd.",SHH,Financial Services,Banks - Regional,China,506036977664.0
+SSE:601628,601628.SS,China Life Insurance Company Limited,SHH,Financial Services,Insurance - Life,China,853801893888.0
+SZSE:300760,300760.SZ,"Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",SHZ,Healthcare,Medical Devices,China,261911314432.0
+NYSE:A,A,"Agilent Technologies, Inc.",NYQ,Healthcare,Diagnostics & Research,United States,28372025344.0
+NASDAQ:AAPL,AAPL,Apple Inc.,NMS,Technology,Consumer Electronics,United States,2868019462144.0
+NYSE:ABBV,ABBV,AbbVie Inc.,NYQ,Healthcare,Drug Manufacturers - General,United States,301425360896.0
+NASDAQ:ABNB,ABNB,"Airbnb, Inc.",NMS,Consumer Cyclical,Travel Services,United States,68586930176.0
+NYSE:ABT,ABT,Abbott Laboratories,NYQ,Healthcare,Medical Devices,United States,224516390912.0
+NASDAQ:ACGL,ACGL,Arch Capital Group Ltd.,NMS,Financial Services,Insurance - Diversified,Bermuda,33840740352.0
+NYSE:ACN,ACN,Accenture plc,NYQ,Technology,Information Technology Services,Ireland,173521879040.0
+NASDAQ:ADBE,ADBE,Adobe Inc.,NMS,Technology,Software - Application,United States,145632542720.0
+NASDAQ:ADI,ADI,"Analog Devices, Inc.",NMS,Technology,Semiconductors,United States,85183881216.0
+NYSE:ADM,ADM,Archer-Daniels-Midland Company,NYQ,Consumer Defensive,Farm Products,United States,22821814272.0
+NASDAQ:ADP,ADP,"Automatic Data Processing, Inc.",NMS,Technology,Software - Application,United States,116759773184.0
+NASDAQ:ADSK,ADSK,"Autodesk, Inc.",NMS,Technology,Software - Application,United States,53566304256.0
+NYSE:AEE,AEE,Ameren Corporation,NYQ,Utilities,Utilities - Regulated Electric,United States,26141839360.0
+NASDAQ:AEP,AEP,"American Electric Power Company, Inc.",NMS,Utilities,Utilities - Regulated Electric,United States,56581369856.0
+NYSE:AES,AES,The AES Corporation,NYQ,Utilities,Utilities - Diversified,United States,6848554496.0
+NYSE:AFL,AFL,Aflac Incorporated,NYQ,Financial Services,Insurance - Life,United States,57365151744.0
+NYSE:AIG,AIG,"American International Group, Inc.",NYQ,Financial Services,Insurance - Diversified,United States,46503358464.0
+NYSE:AIZ,AIZ,"Assurant, Inc.",NYQ,Financial Services,Insurance - Property & Casualty,United States,9364781056.0
+NYSE:AJG,AJG,Arthur J. Gallagher & Co.,NYQ,Financial Services,Insurance Brokers,United States,81927266304.0
+NASDAQ:AKAM,AKAM,"Akamai Technologies, Inc.",NMS,Technology,Software - Infrastructure,United States,10443146240.0
+NYSE:ALB,ALB,Albemarle Corporation,NYQ,Basic Materials,Specialty Chemicals,United States,6084910080.0
+NASDAQ:ALGN,ALGN,"Align Technology, Inc.",NMS,Healthcare,Medical Instruments & Supplies,United States,12339597312.0
+NYSE:ALL,ALL,The Allstate Corporation,NYQ,Financial Services,Insurance - Property & Casualty,United States,49700327424.0
+NYSE:ALLE,ALLE,Allegion plc,NYQ,Industrials,Security & Protection Services,Ireland,10617170944.0
+NASDAQ:AMAT,AMAT,"Applied Materials, Inc.",NMS,Technology,Semiconductor Equipment & Materials,United States,108265889792.0
+NYSE:AMCR,AMCR,Amcor plc,NYQ,Consumer Cyclical,Packaging & Containers,Switzerland,13391076352.0
+NASDAQ:AMD,AMD,"Advanced Micro Devices, Inc.",NMS,Technology,Semiconductors,United States,137118613504.0
+NYSE:AME,AME,"AMETEK, Inc.",NYQ,Industrials,Specialty Industrial Machinery,United States,35581186048.0
+NASDAQ:AMGN,AMGN,Amgen Inc.,NMS,Healthcare,Drug Manufacturers - General,United States,147375505408.0
+NYSE:AMP,AMP,"Ameriprise Financial, Inc.",NYQ,Financial Services,Asset Management,United States,43146002432.0
+NYSE:AMT,AMT,American Tower Corporation,NYQ,Real Estate,REIT - Specialty,United States,102143352832.0
+NASDAQ:AMZN,AMZN,"Amazon.com, Inc.",NMS,Consumer Cyclical,Internet Retail,United States,1771740200960.0
+NYSE:ANET,ANET,Arista Networks Inc,NYQ,Technology,Computer Hardware,United States,84503896064.0
+NASDAQ:ANSS,ANSS,"ANSYS, Inc.",NMS,Technology,Software - Application,United States,25950191616.0
+NYSE:AON,AON,Aon plc,NYQ,Financial Services,Insurance Brokers,Ireland,77125312512.0
+NYSE:AOS,AOS,A. O. Smith Corporation,NYQ,Industrials,Specialty Industrial Machinery,United States,8863633408.0
+NASDAQ:APA,APA,APA Corporation,NMS,Energy,Oil & Gas E&P,United States,5497292800.0
+NYSE:APD,APD,"Air Products and Chemicals, Inc.",NYQ,Basic Materials,Specialty Chemicals,United States,56949403648.0
+NYSE:APH,APH,Amphenol Corporation,NYQ,Technology,Electronic Components,United States,76463316992.0
+NYSE:APO,APO,"Apollo Global Management, Inc.",NYQ,Financial Services,Asset Management,United States,68387373056.0
+NYSE:APTV,APTV,Aptiv PLC,NYQ,Consumer Cyclical,Auto Parts,Switzerland,11536544768.0
+NYSE:ARE,ARE,"Alexandria Real Estate Equities, Inc.",NYQ,Real Estate,REIT - Office,United States,13013962752.0
+NYSE:ATO,ATO,Atmos Energy Corporation,NYQ,Utilities,Utilities - Regulated Gas,United States,24612364288.0
+NYSE:AVB,AVB,"AvalonBay Communities, Inc.",NYQ,Real Estate,REIT - Residential,United States,28451018752.0
+NASDAQ:AVGO,AVGO,Broadcom Inc.,NMS,Technology,Semiconductors,United States,768298582016.0
+NYSE:AVY,AVY,Avery Dennison Corporation,NYQ,Consumer Cyclical,Packaging & Containers,United States,13226409984.0
+NYSE:AWK,AWK,"American Water Works Company, Inc.",NYQ,Utilities,Utilities - Regulated Water,United States,28658819072.0
+NASDAQ:AXON,AXON,"Axon Enterprise, Inc.",NMS,Industrials,Aerospace & Defense,United States,41961291776.0
+NYSE:AXP,AXP,American Express Company,NYQ,Financial Services,Credit Services,United States,169235415040.0
+NYSE:AZO,AZO,"AutoZone, Inc.",NYQ,Consumer Cyclical,Auto Parts,United States,59307089920.0
+NYSE:BA,BA,The Boeing Company,NYQ,Industrials,Aerospace & Defense,United States,118402531328.0
+NYSE:BAC,BAC,Bank of America Corporation,NYQ,Financial Services,Banks - Diversified,United States,277643919360.0
+NYSE:BALL,BALL,Ball Corporation,NYQ,Consumer Cyclical,Packaging & Containers,United States,13315581952.0
+NYSE:BAX,BAX,Baxter International Inc.,NYQ,Healthcare,Medical Instruments & Supplies,United States,14541395968.0
+NYSE:BBY,BBY,"Best Buy Co., Inc.",NYQ,Consumer Cyclical,Specialty Retail,United States,12817476608.0
+NYSE:BDX,BDX,"Becton, Dickinson and Company",NYQ,Healthcare,Medical Instruments & Supplies,United States,56065978368.0
+NYSE:BEN,BEN,"Franklin Resources, Inc.",NYQ,Financial Services,Asset Management,United States,9060489216.0
+NYSE:BG,BG,Bunge Global SA,NYQ,Consumer Defensive,Farm Products,United States,10515147776.0
+NASDAQ:BIIB,BIIB,Biogen Inc.,NMS,Healthcare,Drug Manufacturers - General,United States,17048297472.0
+NYSE:BK,BK,The Bank of New York Mellon Corporation,NYQ,Financial Services,Banks - Diversified,United States,53128130560.0
+NASDAQ:BKNG,BKNG,Booking Holdings Inc.,NMS,Consumer Cyclical,Travel Services,United States,145071079424.0
+NASDAQ:BKR,BKR,Baker Hughes Company,NMS,Energy,Oil & Gas Equipment & Services,United States,37435228160.0
+NYSE:BLDR,BLDR,"Builders FirstSource, Inc.",NYQ,Industrials,Building Products & Equipment,United States,12922342400.0
+NYSE:BLK,BLK,"BlackRock, Inc.",NYQ,Financial Services,Asset Management,United States,132257021952.0
+NYSE:BMY,BMY,Bristol-Myers Squibb Company,NYQ,Healthcare,Drug Manufacturers - General,United States,99408199680.0
+NYSE:BR,BR,"Broadridge Financial Solutions, Inc.",NYQ,Technology,Information Technology Services,United States,26875754496.0
+NYSE:BRO,BRO,"Brown & Brown, Inc.",NYQ,Financial Services,Insurance Brokers,United States,32612534272.0
+NYSE:BSX,BSX,Boston Scientific Corporation,NYQ,Healthcare,Medical Devices,United States,138588848128.0
+NYSE:BX,BX,Blackstone Inc.,NYQ,Financial Services,Asset Management,United States,147448479744.0
+NYSE:BXP,BXP,"BXP, Inc.",NYQ,Real Estate,REIT - Office,United States,10940527616.0
+NYSE:C,C,Citigroup Inc.,NYQ,Financial Services,Banks - Diversified,United States,116581826560.0
+NYSE:CAG,CAG,"Conagra Brands, Inc.",NYQ,Consumer Defensive,Packaged Foods,United States,12048616448.0
+NYSE:CAH,CAH,"Cardinal Health, Inc.",NYQ,Healthcare,Medical Distribution,United States,31876106240.0
+NYSE:CARR,CARR,Carrier Global Corporation,NYQ,Industrials,Building Products & Equipment,United States,50007625728.0
+NYSE:CAT,CAT,Caterpillar Inc.,NYQ,Industrials,Farm & Heavy Construction Machinery,United States,135407697920.0
+NYSE:CB,CB,Chubb Limited,NYQ,Financial Services,Insurance - Property & Casualty,Switzerland,112243892224.0
+BATS:CBOE,CBOE,"Cboe Global Markets, Inc.",BTS,Financial Services,Financial Data & Stock Exchanges,United States,22627215360.0
+NYSE:CBRE,CBRE,"CBRE Group, Inc.",NYQ,Real Estate,Real Estate Services,United States,34402594816.0
+NYSE:CCI,CCI,Crown Castle Inc.,NYQ,Real Estate,REIT - Specialty,United States,44483936256.0
+NYSE:CCL,CCL,Carnival Corporation & plc,NYQ,Consumer Cyclical,Travel Services,United States,23337463808.0
+NASDAQ:CDNS,CDNS,"Cadence Design Systems, Inc.",NMS,Technology,Software - Application,United States,68852809728.0
+NASDAQ:CDW,CDW,CDW Corporation,NMS,Technology,Information Technology Services,United States,19521280000.0
+NASDAQ:CEG,CEG,Constellation Energy Corporation,NMS,Utilities,Utilities - Renewable,United States,59622895616.0
+NYSE:CF,CF,"CF Industries Holdings, Inc.",NYQ,Basic Materials,Agricultural Inputs,United States,12406786048.0
+NYSE:CFG,CFG,"Citizens Financial Group, Inc.",NYQ,Financial Services,Banks - Regional,United States,15051402240.0
+NYSE:CHD,CHD,"Church & Dwight Co., Inc.",NYQ,Consumer Defensive,Household & Personal Products,United States,25590517760.0
+NASDAQ:CHRW,CHRW,"C.H. Robinson Worldwide, Inc.",NMS,Industrials,Integrated Freight & Logistics,United States,10484370432.0
+NASDAQ:CHTR,CHTR,"Charter Communications, Inc.",NMS,Communication Services,Telecom Services,United States,46143684608.0
+NYSE:CI,CI,The Cigna Group,NYQ,Healthcare,Healthcare Plans,United States,87879655424.0
+NASDAQ:CINF,CINF,Cincinnati Financial Corporation,NMS,Financial Services,Insurance - Property & Casualty,United States,20077895680.0
+NYSE:CL,CL,Colgate-Palmolive Company,NYQ,Consumer Defensive,Household & Personal Products,United States,77211140096.0
+NYSE:CLX,CLX,The Clorox Company,NYQ,Consumer Defensive,Household & Personal Products,United States,17064279040.0
+NASDAQ:CMCSA,CMCSA,Comcast Corporation,NMS,Communication Services,Telecom Services,United States,126153736192.0
+NASDAQ:CME,CME,CME Group Inc.,NMS,Financial Services,Financial Data & Stock Exchanges,United States,93681565696.0
+NYSE:CMG,CMG,"Chipotle Mexican Grill, Inc.",NYQ,Consumer Cyclical,Restaurants,United States,61715406848.0
+NYSE:CMI,CMI,Cummins Inc.,NYQ,Industrials,Specialty Industrial Machinery,United States,37369675776.0
+NYSE:CMS,CMS,CMS Energy Corporation,NYQ,Utilities,Utilities - Regulated Electric,United States,21652934656.0
+NYSE:CNC,CNC,Centene Corporation,NYQ,Healthcare,Healthcare Plans,United States,28843409408.0
+NYSE:CNP,CNP,"CenterPoint Energy, Inc.",NYQ,Utilities,Utilities - Regulated Electric,United States,23798425600.0
+NYSE:COF,COF,Capital One Financial Corporation,NYQ,Financial Services,Credit Services,United States,62874206208.0
+NASDAQ:COO,COO,"The Cooper Companies, Inc.",NMS,Healthcare,Medical Instruments & Supplies,United States,15636636672.0
+NYSE:COP,COP,ConocoPhillips,NYQ,Energy,Oil & Gas E&P,United States,109970145280.0
+NYSE:COR,COR,"Cencora, Inc.",NYQ,Healthcare,Medical Distribution,United States,54302011392.0
+NASDAQ:COST,COST,Costco Wholesale Corporation,NMS,Consumer Defensive,Discount Stores,United States,427266736128.0
+NYSE:CPAY,CPAY,"Corpay, Inc.",NYQ,Technology,Software - Infrastructure,United States,20874057728.0
+NASDAQ:CPB,CPB,The Campbell's Company,NMS,Consumer Defensive,Packaged Foods,United States,11160952832.0
+NASDAQ:CPRT,CPRT,"Copart, Inc.",NMS,Industrials,Specialty Business Services,United States,56680673280.0
+NYSE:CPT,CPT,Camden Property Trust,NYQ,Real Estate,REIT - Residential,United States,12036432896.0
+NYSE:CRL,CRL,"Charles River Laboratories International, Inc.",NYQ,Healthcare,Diagnostics & Research,United States,4949880320.0
+NYSE:CRM,CRM,"Salesforce, Inc.",NYQ,Technology,Software - Application,United States,225239187456.0
+NASDAQ:CRWD,CRWD,"CrowdStrike Holdings, Inc.",NMS,Technology,Software - Infrastructure,United States,89892380672.0
+NASDAQ:CSCO,CSCO,"Cisco Systems, Inc.",NMS,Technology,Communication Equipment,United States,215981752320.0
+NASDAQ:CSGP,CSGP,"CoStar Group, Inc.",NMS,Real Estate,Real Estate Services,United States,32884862976.0
+NASDAQ:CSX,CSX,CSX Corporation,NMS,Industrials,Railroads,United States,50814775296.0
+NASDAQ:CTAS,CTAS,Cintas Corporation,NMS,Industrials,Specialty Business Services,United States,80999677952.0
+NYSE:CTRA,CTRA,Coterra Energy Inc.,NYQ,Energy,Oil & Gas E&P,United States,19064195072.0
+NASDAQ:CTSH,CTSH,Cognizant Technology Solutions Corporation,NMS,Technology,Information Technology Services,United States,33507762176.0
+NYSE:CTVA,CTVA,"Corteva, Inc.",NYQ,Basic Materials,Agricultural Inputs,United States,40151035904.0
+NYSE:CVS,CVS,CVS Health Corporation,NYQ,Healthcare,Healthcare Plans,United States,81688608768.0
+NYSE:CVX,CVX,Chevron Corporation,NYQ,Energy,Oil & Gas Integrated,United States,232549564416.0
+NASDAQ:CZR,CZR,"Caesars Entertainment, Inc.",NMS,Consumer Cyclical,Resorts & Casinos,United States,5272763392.0
+NYSE:D,D,"Dominion Energy, Inc.",NYQ,Utilities,Utilities - Regulated Electric,United States,44408922112.0
+NYSE:DAL,DAL,"Delta Air Lines, Inc.",NYQ,Industrials,Airlines,United States,25726429184.0
+NASDAQ:DASH,DASH,"DoorDash, Inc.",NMS,Communication Services,Internet Content & Information,United States,72588386304.0
+NYSE:DAY,DAY,Dayforce Inc,NYQ,Technology,Software - Application,United States,8293720064.0
+NYSE:DD,DD,"DuPont de Nemours, Inc.",NYQ,Basic Materials,Specialty Chemicals,United States,24595126272.0
+NYSE:DE,DE,Deere & Company,NYQ,Industrials,Farm & Heavy Construction Machinery,United States,119276961792.0
+NYSE:DECK,DECK,Deckers Outdoor Corporation,NYQ,Consumer Cyclical,Footwear & Accessories,United States,15288195072.0
+NYSE:DELL,DELL,Dell Technologies Inc.,NYQ,Technology,Computer Hardware,United States,56661200896.0
+NYSE:DFS,DFS,Discover Financial Services,NYQ,Financial Services,Credit Services,United States,41361342464.0
+NYSE:DG,DG,Dollar General Corporation,NYQ,Consumer Defensive,Discount Stores,United States,20664109056.0
+NYSE:DGX,DGX,Quest Diagnostics Incorporated,NYQ,Healthcare,Diagnostics & Research,United States,17860800512.0
+NYSE:DHI,DHI,"D.R. Horton, Inc.",NYQ,Consumer Cyclical,Residential Construction,United States,36749996032.0
+NYSE:DHR,DHR,Danaher Corporation,NYQ,Healthcare,Diagnostics & Research,United States,130676932608.0
+NYSE:DIS,DIS,The Walt Disney Company,NYQ,Communication Services,Entertainment,United States,151095083008.0
+NYSE:DLR,DLR,"Digital Realty Trust, Inc.",NYQ,Real Estate,REIT - Specialty,United States,50006200320.0
+NASDAQ:DLTR,DLTR,"Dollar Tree, Inc.",NMS,Consumer Defensive,Discount Stores,United States,16856055808.0
+NYSE:DOC,DOC,"Healthpeak Properties, Inc.",NYQ,Real Estate,REIT - Healthcare Facilities,United States,12885602304.0
+NYSE:DOV,DOV,Dover Corporation,NYQ,Industrials,Specialty Industrial Machinery,United States,21445404672.0
+NYSE:DOW,DOW,Dow Inc.,NYQ,Basic Materials,Chemicals,United States,19648468992.0
+NASDAQ:DPZ,DPZ,"Domino's Pizza, Inc.",NMS,Consumer Cyclical,Restaurants,United States,16029903872.0
+NYSE:DRI,DRI,"Darden Restaurants, Inc.",NYQ,Consumer Cyclical,Restaurants,United States,22967521280.0
+NYSE:DTE,DTE,DTE Energy Company,NYQ,Utilities,Utilities - Regulated Electric,United States,27251265536.0
+NYSE:DUK,DUK,Duke Energy Corporation,NYQ,Utilities,Utilities - Regulated Electric,United States,93394157568.0
+NYSE:DVA,DVA,DaVita Inc.,NYQ,Healthcare,Medical Care Facilities,United States,10684399616.0
+NYSE:DVN,DVN,Devon Energy Corporation,NYQ,Energy,Oil & Gas E&P,United States,19022088192.0
+NASDAQ:DXCM,DXCM,"DexCom, Inc.",NMS,Healthcare,Medical Devices,United States,25659484160.0
+NASDAQ:EA,EA,Electronic Arts Inc.,NMS,Communication Services,Electronic Gaming & Multimedia,United States,37310074880.0
+NASDAQ:EBAY,EBAY,eBay Inc.,NMS,Consumer Cyclical,Internet Retail,United States,30616199168.0
+NYSE:ECL,ECL,Ecolab Inc.,NYQ,Basic Materials,Specialty Chemicals,United States,65561763840.0
+NYSE:ED,ED,"Consolidated Edison, Inc.",NYQ,Utilities,Utilities - Regulated Electric,United States,39982198784.0
+NYSE:EFX,EFX,Equifax Inc.,NYQ,Industrials,Consulting Services,United States,27043942400.0
+NYSE:EG,EG,"Everest Group, Ltd.",NYQ,Financial Services,Insurance - Reinsurance,Bermuda,14617686016.0
+NYSE:EIX,EIX,Edison International,NYQ,Utilities,Utilities - Regulated Electric,United States,21384232960.0
+NYSE:EL,EL,The Estée Lauder Companies Inc.,NYQ,Consumer Defensive,Household & Personal Products,United States,19054104576.0
+NYSE:ELV,ELV,"Elevance Health, Inc.",NYQ,Healthcare,Healthcare Plans,United States,91890483200.0
+NYSE:EMN,EMN,Eastman Chemical Company,NYQ,Basic Materials,Specialty Chemicals,United States,8809020416.0
+NYSE:EMR,EMR,Emerson Electric Co.,NYQ,Industrials,Specialty Industrial Machinery,United States,54024949760.0
+NASDAQ:ENPH,ENPH,"Enphase Energy, Inc.",NMS,Technology,Solar,United States,6735089152.0
+NYSE:EOG,EOG,"EOG Resources, Inc.",NYQ,Energy,Oil & Gas E&P,United States,59757035520.0
+NYSE:EPAM,EPAM,"EPAM Systems, Inc.",NYQ,Technology,Information Technology Services,United States,8159240192.0
+NASDAQ:EQIX,EQIX,"Equinix, Inc.",NMS,Real Estate,REIT - Specialty,United States,75538718720.0
+NYSE:EQR,EQR,Equity Residential,NYQ,Real Estate,REIT - Residential,United States,26958782464.0
+NYSE:EQT,EQT,EQT Corporation,NYQ,Energy,Oil & Gas E&P,United States,29053556736.0
+NASDAQ:ERIE,ERIE,Erie Indemnity Company,NMS,Financial Services,Insurance Brokers,United States,20602744832.0
+NYSE:ES,ES,Eversource Energy,NYQ,Utilities,Utilities - Regulated Electric,United States,20569438208.0
+NYSE:ESS,ESS,"Essex Property Trust, Inc.",NYQ,Real Estate,REIT - Residential,United States,18596943872.0
+NYSE:ETN,ETN,Eaton Corporation plc,NYQ,Industrials,Specialty Industrial Machinery,Ireland,100813905920.0
+NYSE:ETR,ETR,Entergy Corporation,NYQ,Utilities,Utilities - Regulated Electric,United States,34862379008.0
+NASDAQ:EVRG,EVRG,"Evergy, Inc.",NMS,Utilities,Utilities - Regulated Electric,United States,15425821696.0
+NYSE:EW,EW,Edwards Lifesciences Corporation,NYQ,Healthcare,Medical Devices,United States,40657256448.0
+NASDAQ:EXC,EXC,Exelon Corporation,NMS,Utilities,Utilities - Regulated Electric,United States,46782083072.0
+NASDAQ:EXE,EXE,Expand Energy Corporation,NMS,Energy,Oil & Gas E&P,United States,23982061568.0
+NYSE:EXPD,EXPD,"Expeditors International of Washington, Inc.",NYQ,Industrials,Integrated Freight & Logistics,United States,14361166848.0
+NASDAQ:EXPE,EXPE,"Expedia Group, Inc.",NMS,Consumer Cyclical,Travel Services,United States,18867240960.0
+NYSE:EXR,EXR,Extra Space Storage Inc.,NYQ,Real Estate,REIT - Industrial,United States,30595629056.0
+NYSE:F,F,Ford Motor Company,NYQ,Consumer Cyclical,Auto Manufacturers,United States,37399449600.0
+NASDAQ:FANG,FANG,"Diamondback Energy, Inc.",NMS,Energy,Oil & Gas E&P,United States,38736613376.0
+NASDAQ:FAST,FAST,Fastenal Company,NMS,Industrials,Industrial Distribution,United States,45889679360.0
+NYSE:FCX,FCX,Freeport-McMoRan Inc.,NYQ,Basic Materials,Copper,United States,46489210880.0
+NYSE:FDS,FDS,FactSet Research Systems Inc.,NYQ,Financial Services,Financial Data & Stock Exchanges,United States,15713894400.0
+NYSE:FDX,FDX,FedEx Corporation,NYQ,Industrials,Integrated Freight & Logistics,United States,48373841920.0
+NYSE:FE,FE,FirstEnergy Corp.,NYQ,Utilities,Utilities - Regulated Electric,United States,23988242432.0
+NASDAQ:FFIV,FFIV,"F5, Inc.",NMS,Technology,Software - Infrastructure,United States,14511661056.0
+NYSE:FI,FI,"Fiserv, Inc.",NYQ,Technology,Information Technology Services,United States,115661127680.0
+NYSE:FICO,FICO,Fair Isaac Corporation,NYQ,Technology,Software - Application,United States,44851560448.0
+NYSE:FIS,FIS,"Fidelity National Information Services, Inc.",NYQ,Technology,Information Technology Services,United States,41088208896.0
+NASDAQ:FITB,FITB,Fifth Third Bancorp,NMS,Financial Services,Banks - Regional,United States,22039994368.0
+NASDAQ:FOX,FOX,Fox Corporation,NMS,Communication Services,Entertainment,United States,20573915136.0
+NASDAQ:FOXA,FOXA,Fox Corporation,NMS,Communication Services,Entertainment,United States,20526309376.0
+NYSE:FRT,FRT,Federal Realty Investment Trust,NYQ,Real Estate,REIT - Retail,United States,7910154240.0
+NASDAQ:FSLR,FSLR,"First Solar, Inc.",NMS,Technology,Solar,United States,13086679040.0
+NASDAQ:FTNT,FTNT,"Fortinet, Inc.",NMS,Technology,Software - Infrastructure,United States,71099334656.0
+NYSE:FTV,FTV,Fortive Corporation,NYQ,Technology,Scientific & Technical Instruments,United States,21611816960.0
+NYSE:GD,GD,General Dynamics Corporation,NYQ,Industrials,Aerospace & Defense,United States,73062973440.0
+NYSE:GDDY,GDDY,GoDaddy Inc.,NYQ,Technology,Software - Infrastructure,United States,23488417792.0
+NYSE:GE,GE,GE Aerospace,NYQ,Industrials,Aerospace & Defense,United States,188880650240.0
+NASDAQ:GEHC,GEHC,GE HealthCare Technologies Inc.,NMS,Healthcare,Health Information Services,United States,27548413952.0
+NASDAQ:GEN,GEN,Gen Digital Inc.,NMS,Technology,Software - Infrastructure,United States,14621741056.0
+NYSE:GEV,GEV,GE Vernova Inc.,NYQ,Utilities,Utilities - Renewable,United States,84715388928.0
+NASDAQ:GILD,GILD,"Gilead Sciences, Inc.",NMS,Healthcare,Drug Manufacturers - General,United States,129724317696.0
+NYSE:GIS,GIS,"General Mills, Inc.",NYQ,Consumer Defensive,Packaged Foods,United States,31452778496.0
+NYSE:GL,GL,Globe Life Inc.,NYQ,Financial Services,Insurance - Life,United States,9815465984.0
+NYSE:GLW,GLW,Corning Incorporated,NYQ,Technology,Electronic Components,United States,34613792768.0
+NYSE:GM,GM,General Motors Company,NYQ,Consumer Cyclical,Auto Manufacturers,United States,43780087808.0
+NYSE:GNRC,GNRC,Generac Holdings Inc.,NYQ,Industrials,Specialty Industrial Machinery,United States,6326237696.0
+NASDAQ:GOOG,GOOG,Alphabet Inc.,NMS,Communication Services,Internet Content & Information,United States,1800917614592.0
+NASDAQ:GOOGL,GOOGL,Alphabet Inc.,NMS,Communication Services,Internet Content & Information,United States,1798782058496.0
+NYSE:GPC,GPC,Genuine Parts Company,NYQ,Consumer Cyclical,Auto Parts,United States,15512357888.0
+NYSE:GPN,GPN,Global Payments Inc.,NYQ,Industrials,Specialty Business Services,United States,16365505536.0
+NYSE:GRMN,GRMN,Garmin Ltd.,NYQ,Technology,Scientific & Technical Instruments,Switzerland,35642839040.0
+NYSE:GS,GS,"The Goldman Sachs Group, Inc.",NYQ,Financial Services,Capital Markets,United States,155312635904.0
+NYSE:GWW,GWW,"W.W. Grainger, Inc.",NYQ,Industrials,Industrial Distribution,United States,47145107456.0
+NYSE:HAL,HAL,Halliburton Company,NYQ,Energy,Oil & Gas Equipment & Services,United States,18778255360.0
+NASDAQ:HAS,HAS,"Hasbro, Inc.",NMS,Consumer Cyclical,Leisure,United States,7095279616.0
+NASDAQ:HBAN,HBAN,Huntington Bancshares Incorporated,NMS,Financial Services,Banks - Regional,United States,19588558848.0
+NYSE:HCA,HCA,"HCA Healthcare, Inc.",NYQ,Healthcare,Medical Care Facilities,United States,78004494336.0
+NYSE:HD,HD,"The Home Depot, Inc.",NYQ,Consumer Cyclical,Home Improvement Retail,United States,342462857216.0
+NYSE:HES,HES,Hess Corporation,NYQ,Energy,Oil & Gas E&P,United States,38888001536.0
+NYSE:HIG,HIG,"The Hartford Insurance Group, Inc.",NYQ,Financial Services,Insurance - Property & Casualty,United States,32891774976.0
+NYSE:HII,HII,"Huntington Ingalls Industries, Inc.",NYQ,Industrials,Aerospace & Defense,United States,8476459008.0
+NYSE:HLT,HLT,Hilton Worldwide Holdings Inc.,NYQ,Consumer Cyclical,Lodging,United States,48778223616.0
+NASDAQ:HOLX,HOLX,"Hologic, Inc.",NMS,Healthcare,Medical Instruments & Supplies,United States,12803009536.0
+NASDAQ:HON,HON,Honeywell International Inc.,NMS,Industrials,Conglomerates,United States,123942756352.0
+NYSE:HPE,HPE,Hewlett Packard Enterprise Company,NYQ,Technology,Communication Equipment,United States,19317245952.0
+NYSE:HPQ,HPQ,HP Inc.,NYQ,Technology,Computer Hardware,United States,21998729216.0
+NYSE:HRL,HRL,Hormel Foods Corporation,NYQ,Consumer Defensive,Packaged Foods,United States,16590875648.0
+NASDAQ:HSIC,HSIC,"Henry Schein, Inc.",NMS,Healthcare,Medical Distribution,United States,7675377152.0
+NASDAQ:HST,HST,"Host Hotels & Resorts, Inc.",NMS,Real Estate,REIT - Hotel & Motel,United States,9432820736.0
+NYSE:HSY,HSY,The Hershey Company,NYQ,Consumer Defensive,Confectioners,United States,33546459136.0
+NYSE:HUBB,HUBB,Hubbell Incorporated,NYQ,Industrials,Electrical Equipment & Parts,United States,17545019392.0
+NYSE:HUM,HUM,Humana Inc.,NYQ,Healthcare,Healthcare Plans,United States,29668753408.0
+NYSE:HWM,HWM,Howmet Aerospace Inc.,NYQ,Industrials,Aerospace & Defense,United States,48187842560.0
+NYSE:IBM,IBM,International Business Machines Corporation,NYQ,Technology,Information Technology Services,United States,217480495104.0
+NYSE:ICE,ICE,"Intercontinental Exchange, Inc.",NYQ,Financial Services,Financial Data & Stock Exchanges,United States,88834629632.0
+NASDAQ:IDXX,IDXX,"IDEXX Laboratories, Inc.",NMS,Healthcare,Diagnostics & Research,United States,33057429504.0
+NYSE:IEX,IEX,IDEX Corporation,NYQ,Industrials,Specialty Industrial Machinery,United States,12051549184.0
+NYSE:IFF,IFF,International Flavors & Fragrances Inc.,NYQ,Basic Materials,Specialty Chemicals,United States,18558689280.0
+NASDAQ:INCY,INCY,Incyte Corporation,NMS,Healthcare,Biotechnology,United States,10992162816.0
+NASDAQ:INTC,INTC,Intel Corporation,NMS,Technology,Semiconductors,United States,80234848256.0
+NASDAQ:INTU,INTU,Intuit Inc.,NMS,Technology,Software - Application,United States,158531223552.0
+NYSE:INVH,INVH,Invitation Homes Inc.,NYQ,Real Estate,REIT - Residential,United States,20329328640.0
+NYSE:IP,IP,International Paper Company,NYQ,Consumer Cyclical,Packaging & Containers,United States,23782766592.0
+NYSE:IPG,IPG,"The Interpublic Group of Companies, Inc.",NYQ,Communication Services,Advertising Agencies,United States,8714396672.0
+NYSE:IQV,IQV,IQVIA Holdings Inc.,NYQ,Healthcare,Diagnostics & Research,United States,24365854720.0
+NYSE:IR,IR,Ingersoll Rand Inc.,NYQ,Industrials,Specialty Industrial Machinery,United States,27929622528.0
+NYSE:IRM,IRM,Iron Mountain Incorporated,NYQ,Real Estate,REIT - Specialty,United States,23907579904.0
+NASDAQ:ISRG,ISRG,"Intuitive Surgical, Inc.",NMS,Healthcare,Medical Instruments & Supplies,United States,167425490944.0
+NYSE:IT,IT,"Gartner, Inc.",NYQ,Technology,Information Technology Services,United States,30108184576.0
+NYSE:ITW,ITW,Illinois Tool Works Inc.,NYQ,Industrials,Specialty Industrial Machinery,United States,66426863616.0
+NYSE:IVZ,IVZ,Invesco Ltd.,NYQ,Financial Services,Asset Management,United States,5555271168.0
+NYSE:J,J,Jacobs Solutions Inc.,NYQ,Industrials,Engineering & Construction,United States,14190595072.0
+NASDAQ:JBHT,JBHT,"J.B. Hunt Transport Services, Inc.",NMS,Industrials,Integrated Freight & Logistics,United States,12381490176.0
+NYSE:JBL,JBL,Jabil Inc.,NYQ,Technology,Electronic Components,United States,13999934464.0
+NYSE:JCI,JCI,Johnson Controls International plc,NYQ,Industrials,Building Products & Equipment,Ireland,49276076032.0
+NASDAQ:JKHY,JKHY,"Jack Henry & Associates, Inc.",NMS,Technology,Information Technology Services,United States,12324813824.0
+NYSE:JNJ,JNJ,Johnson & Johnson,NYQ,Healthcare,Drug Manufacturers - General,United States,378129580032.0
+NYSE:JNPR,JNPR,"Juniper Networks, Inc.",NYQ,Technology,Communication Equipment,United States,11325304832.0
+NYSE:JPM,JPM,JPMorgan Chase & Co.,NYQ,Financial Services,Banks - Diversified,United States,634357350400.0
+NYSE:K,K,Kellanova,NYQ,Consumer Defensive,Packaged Foods,United States,28400918528.0
+NASDAQ:KDP,KDP,Keurig Dr Pepper Inc.,NMS,Consumer Defensive,Beverages - Non-Alcoholic,United States,47723679744.0
+NYSE:KEY,KEY,KeyCorp,NYQ,Financial Services,Banks - Regional,United States,15401062400.0
+NYSE:KEYS,KEYS,"Keysight Technologies, Inc.",NYQ,Technology,Scientific & Technical Instruments,United States,22551836672.0
+NASDAQ:KHC,KHC,The Kraft Heinz Company,NMS,Consumer Defensive,Packaged Foods,United States,35378343936.0
+NYSE:KIM,KIM,Kimco Realty Corporation,NYQ,Real Estate,REIT - Retail,United States,13698700288.0
+NYSE:KKR,KKR,KKR & Co. Inc.,NYQ,Financial Services,Asset Management,United States,90140958720.0
+NASDAQ:KLAC,KLAC,KLA Corporation,NMS,Technology,Semiconductor Equipment & Materials,United States,81510891520.0
+NYSE:KMB,KMB,Kimberly-Clark Corporation,NYQ,Consumer Defensive,Household & Personal Products,United States,46643535872.0
+NYSE:KMI,KMI,"Kinder Morgan, Inc.",NYQ,Energy,Oil & Gas Midstream,United States,57295560704.0
+NYSE:KMX,KMX,"CarMax, Inc.",NYQ,Consumer Cyclical,Auto & Truck Dealerships,United States,9523664896.0
+NYSE:KO,KO,The Coca-Cola Company,NYQ,Consumer Defensive,Beverages - Non-Alcoholic,United States,311535435776.0
+NYSE:KR,KR,The Kroger Co.,NYQ,Consumer Defensive,Grocery Stores,United States,47366270976.0
+NYSE:KVUE,KVUE,Kenvue Inc.,NYQ,Consumer Defensive,Household & Personal Products,United States,43141746688.0
+NYSE:L,L,Loews Corporation,NYQ,Financial Services,Insurance - Property & Casualty,United States,17502558208.0
+NYSE:LDOS,LDOS,"Leidos Holdings, Inc.",NYQ,Technology,Information Technology Services,United States,17785845760.0
+NYSE:LEN,LEN,Lennar Corporation,NYQ,Consumer Cyclical,Residential Construction,United States,27035867136.0
+NYSE:LH,LH,Labcorp Holdings Inc.,NYQ,Healthcare,Diagnostics & Research,United States,17630648320.0
+NYSE:LHX,LHX,"L3Harris Technologies, Inc.",NYQ,Industrials,Aerospace & Defense,United States,39998525440.0
+NYSE:LII,LII,Lennox International Inc.,NYQ,Industrials,Building Products & Equipment,United States,19308412928.0
+NASDAQ:LIN,LIN,Linde plc,NMS,Basic Materials,Specialty Chemicals,United Kingdom,210507317248.0
+NASDAQ:LKQ,LKQ,LKQ Corporation,NMS,Consumer Cyclical,Auto Parts,United States,10653676544.0
+NYSE:LLY,LLY,Eli Lilly and Company,NYQ,Healthcare,Drug Manufacturers - General,United States,736467746816.0
+NYSE:LMT,LMT,Lockheed Martin Corporation,NYQ,Industrials,Aerospace & Defense,United States,106688487424.0
+NASDAQ:LNT,LNT,Alliant Energy Corporation,NMS,Utilities,Utilities - Regulated Electric,United States,15245411328.0
+NYSE:LOW,LOW,"Lowe's Companies, Inc.",NYQ,Consumer Cyclical,Home Improvement Retail,United States,118411616256.0
+NASDAQ:LRCX,LRCX,Lam Research Corporation,NMS,Technology,Semiconductor Equipment & Materials,United States,79137644544.0
+NASDAQ:LULU,LULU,lululemon athletica inc.,NMS,Consumer Cyclical,Apparel Retail,Canada,30009659392.0
+NYSE:LUV,LUV,Southwest Airlines Co.,NYQ,Industrials,Airlines,United States,13779675136.0
+NYSE:LVS,LVS,Las Vegas Sands Corp.,NYQ,Consumer Cyclical,Resorts & Casinos,United States,22908876800.0
+NYSE:LW,LW,"Lamb Weston Holdings, Inc.",NYQ,Consumer Defensive,Packaged Foods,United States,7151758848.0
+NYSE:LYB,LYB,LyondellBasell Industries N.V.,NYQ,Basic Materials,Specialty Chemicals,United States,18033674240.0
+NYSE:LYV,LYV,"Live Nation Entertainment, Inc.",NYQ,Communication Services,Entertainment,United States,28625655808.0
+NYSE:MA,MA,Mastercard Incorporated,NYQ,Financial Services,Credit Services,United States,463923085312.0
+NYSE:MAA,MAA,"Mid-America Apartment Communities, Inc.",NYQ,Real Estate,REIT - Residential,United States,18597478400.0
+NASDAQ:MAR,MAR,"Marriott International, Inc.",NMS,Consumer Cyclical,Lodging,United States,59078520832.0
+NYSE:MAS,MAS,Masco Corporation,NYQ,Industrials,Building Products & Equipment,United States,12682187776.0
+NYSE:MCD,MCD,McDonald's Corporation,NYQ,Consumer Cyclical,Restaurants,United States,218661879808.0
+NASDAQ:MCHP,MCHP,Microchip Technology Incorporated,NMS,Technology,Semiconductors,United States,20501659648.0
+NYSE:MCK,MCK,McKesson Corporation,NYQ,Healthcare,Medical Distribution,United States,85686018048.0
+NYSE:MCO,MCO,Moody's Corporation,NYQ,Financial Services,Financial Data & Stock Exchanges,United States,74116063232.0
+NASDAQ:MDLZ,MDLZ,"Mondelez International, Inc.",NMS,Consumer Defensive,Confectioners,United States,87157456896.0
+NYSE:MDT,MDT,Medtronic plc,NYQ,Healthcare,Medical Devices,Ireland,104353865728.0
+NYSE:MET,MET,"MetLife, Inc.",NYQ,Financial Services,Insurance - Life,United States,47917576192.0
+NASDAQ:META,META,"Meta Platforms, Inc.",NMS,Communication Services,Internet Content & Information,United States,1225075195904.0
+NYSE:MGM,MGM,MGM Resorts International,NYQ,Consumer Cyclical,Resorts & Casinos,United States,8209591296.0
+NYSE:MHK,MHK,"Mohawk Industries, Inc.",NYQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",United States,6232180224.0
+NYSE:MKC,MKC,"McCormick & Company, Incorporated",NYQ,Consumer Defensive,Packaged Foods,United States,20024834048.0
+NASDAQ:MKTX,MKTX,MarketAxess Holdings Inc.,NMS,Financial Services,Capital Markets,United States,8387490816.0
+NYSE:MLM,MLM,"Martin Marietta Materials, Inc.",NYQ,Basic Materials,Building Materials,United States,29343877120.0
+NYSE:MMC,MMC,"Marsh & McLennan Companies, Inc.",NYQ,Financial Services,Insurance Brokers,United States,105018859520.0
+NYSE:MMM,MMM,3M Company,NYQ,Industrials,Conglomerates,United States,68034969600.0
+NASDAQ:MNST,MNST,Monster Beverage Corporation,NMS,Consumer Defensive,Beverages - Non-Alcoholic,United States,55830130688.0
+NYSE:MO,MO,"Altria Group, Inc.",NYQ,Consumer Defensive,Tobacco,United States,97074159616.0
+NYSE:MOH,MOH,"Molina Healthcare, Inc.",NYQ,Healthcare,Healthcare Plans,United States,16688392192.0
+NYSE:MOS,MOS,The Mosaic Company,NYQ,Basic Materials,Agricultural Inputs,United States,8584244224.0
+NYSE:MPC,MPC,Marathon Petroleum Corporation,NYQ,Energy,Oil & Gas Refining & Marketing,United States,39237328896.0
+NASDAQ:MPWR,MPWR,"Monolithic Power Systems, Inc.",NMS,Technology,Semiconductors,United States,24039262208.0
+NYSE:MRK,MRK,"Merck & Co., Inc.",NYQ,Healthcare,Drug Manufacturers - General,United States,194529525760.0
+NASDAQ:MRNA,MRNA,"Moderna, Inc.",NMS,Healthcare,Biotechnology,United States,9630779392.0
+NYSE:MS,MS,Morgan Stanley,NYQ,Financial Services,Capital Markets,United States,170358079488.0
+NYSE:MSCI,MSCI,MSCI Inc.,NYQ,Financial Services,Financial Data & Stock Exchanges,United States,41430720512.0
+NASDAQ:MSFT,MSFT,Microsoft Corporation,NMS,Technology,Software - Infrastructure,United States,2662479953920.0
+NYSE:MSI,MSI,"Motorola Solutions, Inc.",NYQ,Technology,Communication Equipment,United States,68714033152.0
+NYSE:MTB,MTB,M&T Bank Corporation,NYQ,Financial Services,Banks - Regional,United States,25618196480.0
+NASDAQ:MTCH,MTCH,"Match Group, Inc.",NMS,Communication Services,Internet Content & Information,United States,7212354560.0
+NYSE:MTD,MTD,Mettler-Toledo International Inc.,NYQ,Healthcare,Diagnostics & Research,United States,20268914688.0
+NASDAQ:MU,MU,"Micron Technology, Inc.",NMS,Technology,Semiconductors,United States,73988726784.0
+NYSE:NCLH,NCLH,Norwegian Cruise Line Holdings Ltd.,NYQ,Consumer Cyclical,Travel Services,United States,7121662976.0
+NASDAQ:NDAQ,NDAQ,"Nasdaq, Inc.",NMS,Financial Services,Financial Data & Stock Exchanges,United States,40625369088.0
+NASDAQ:NDSN,NDSN,Nordson Corporation,NMS,Industrials,Specialty Industrial Machinery,United States,9978613760.0
+NYSE:NEE,NEE,"NextEra Energy, Inc.",NYQ,Utilities,Utilities - Regulated Electric,United States,133334220800.0
+NYSE:NEM,NEM,Newmont Corporation,NYQ,Basic Materials,Gold,United States,61587849216.0
+NASDAQ:NFLX,NFLX,"Netflix, Inc.",NMS,Communication Services,Entertainment,United States,425002237952.0
+NYSE:NI,NI,NiSource Inc.,NYQ,Utilities,Utilities - Regulated Gas,United States,18066526208.0
+NYSE:NKE,NKE,"NIKE, Inc.",NYQ,Consumer Cyclical,Footwear & Accessories,United States,79718219776.0
+NYSE:NOC,NOC,Northrop Grumman Corporation,NYQ,Industrials,Aerospace & Defense,United States,76187557888.0
+NYSE:NOW,NOW,"ServiceNow, Inc.",NYQ,Technology,Software - Application,United States,155128332288.0
+NYSE:NRG,NRG,"NRG Energy, Inc.",NYQ,Utilities,Utilities - Independent Power Producers,United States,18904371200.0
+NYSE:NSC,NSC,Norfolk Southern Corporation,NYQ,Industrials,Railroads,United States,48719003648.0
+NASDAQ:NTAP,NTAP,"NetApp, Inc.",NMS,Technology,Computer Hardware,United States,16730982400.0
+NASDAQ:NTRS,NTRS,Northern Trust Corporation,NMS,Financial Services,Asset Management,United States,16834857984.0
+NYSE:NUE,NUE,Nucor Corporation,NYQ,Basic Materials,Steel,United States,24553201664.0
+NASDAQ:NVDA,NVDA,NVIDIA Corporation,NMS,Technology,Semiconductors,United States,2346059825152.0
+NYSE:NVR,NVR,"NVR, Inc.",NYQ,Consumer Cyclical,Residential Construction,United States,20913694720.0
+NASDAQ:NWS,NWS,News Corporation,NMS,Communication Services,Entertainment,United States,15073048576.0
+NASDAQ:NWSA,NWSA,News Corporation,NMS,Communication Services,Entertainment,United States,15093777408.0
+NASDAQ:NXPI,NXPI,NXP Semiconductors N.V.,NMS,Technology,Semiconductors,Netherlands,42781888512.0
+NYSE:O,O,Realty Income Corporation,NYQ,Real Estate,REIT - Retail,United States,51406024704.0
+NASDAQ:ODFL,ODFL,"Old Dominion Freight Line, Inc.",NMS,Industrials,Trucking,United States,31494916096.0
+NYSE:OKE,OKE,"ONEOK, Inc.",NYQ,Energy,Oil & Gas Midstream,United States,51318947840.0
+NYSE:OMC,OMC,Omnicom Group Inc.,NYQ,Communication Services,Advertising Agencies,United States,14037381120.0
+NASDAQ:ON,ON,ON Semiconductor Corporation,NMS,Technology,Semiconductors,United States,14366547968.0
+NYSE:ORCL,ORCL,Oracle Corporation,NYQ,Technology,Software - Infrastructure,United States,342480584704.0
+NASDAQ:ORLY,ORLY,"O'Reilly Automotive, Inc.",NMS,Consumer Cyclical,Auto Parts,United States,78089797632.0
+NYSE:OTIS,OTIS,Otis Worldwide Corporation,NYQ,Industrials,Specialty Industrial Machinery,United States,38410747904.0
+NYSE:OXY,OXY,Occidental Petroleum Corporation,NYQ,Energy,Oil & Gas E&P,United States,37961138176.0
+NASDAQ:PANW,PANW,"Palo Alto Networks, Inc.",NMS,Technology,Software - Infrastructure,United States,105843302400.0
+NASDAQ:PARA,PARA,Paramount Global,NMS,Communication Services,Entertainment,United States,7751913472.0
+NYSE:PAYC,PAYC,"Paycom Software, Inc.",NYQ,Technology,Software - Application,United States,11797920768.0
+NASDAQ:PAYX,PAYX,"Paychex, Inc.",NMS,Technology,Software - Application,United States,51006648320.0
+NASDAQ:PCAR,PCAR,PACCAR Inc,NMS,Industrials,Farm & Heavy Construction Machinery,United States,44808454144.0
+NYSE:PCG,PCG,PG&E Corporation,NYQ,Utilities,Utilities - Regulated Electric,United States,37107830784.0
+NYSE:PEG,PEG,Public Service Enterprise Group Incorporated,NYQ,Utilities,Utilities - Regulated Electric,United States,40056885248.0
+NASDAQ:PEP,PEP,"PepsiCo, Inc.",NMS,Consumer Defensive,Beverages - Non-Alcoholic,United States,193484980224.0
+NYSE:PFE,PFE,Pfizer Inc.,NYQ,Healthcare,Drug Manufacturers - General,United States,124757155840.0
+NASDAQ:PFG,PFG,"Principal Financial Group, Inc.",NMS,Financial Services,Asset Management,United States,15817781248.0
+NYSE:PG,PG,The Procter & Gamble Company,NYQ,Consumer Defensive,Household & Personal Products,United States,389772705792.0
+NYSE:PGR,PGR,The Progressive Corporation,NYQ,Financial Services,Insurance - Property & Casualty,United States,151738400768.0
+NYSE:PH,PH,Parker-Hannifin Corporation,NYQ,Industrials,Specialty Industrial Machinery,United States,69944508416.0
+NYSE:PHM,PHM,"PulteGroup, Inc.",NYQ,Consumer Cyclical,Residential Construction,United States,18694991872.0
+NYSE:PKG,PKG,Packaging Corporation of America,NYQ,Consumer Cyclical,Packaging & Containers,United States,16310258688.0
+NYSE:PLD,PLD,"Prologis, Inc.",NYQ,Real Estate,REIT - Industrial,United States,90649083904.0
+NASDAQ:PLTR,PLTR,Palantir Technologies Inc.,NMS,Technology,Software - Infrastructure,United States,214131359744.0
+NYSE:PM,PM,Philip Morris International Inc.,NYQ,Consumer Defensive,Tobacco,United States,250945110016.0
+NYSE:PNC,PNC,"The PNC Financial Services Group, Inc.",NYQ,Financial Services,Banks - Regional,United States,58867974144.0
+NYSE:PNR,PNR,Pentair plc,NYQ,Industrials,Specialty Industrial Machinery,United Kingdom,12897354752.0
+NYSE:PNW,PNW,Pinnacle West Capital Corporation,NYQ,Utilities,Utilities - Regulated Electric,United States,11125143552.0
+NASDAQ:PODD,PODD,Insulet Corporation,NMS,Healthcare,Medical Devices,United States,16865850368.0
+NASDAQ:POOL,POOL,Pool Corporation,NMS,Industrials,Industrial Distribution,United States,11175148544.0
+NYSE:PPG,PPG,"PPG Industries, Inc.",NYQ,Basic Materials,Specialty Chemicals,United States,22411511808.0
+NYSE:PPL,PPL,PPL Corporation,NYQ,Utilities,Utilities - Regulated Electric,United States,25811392512.0
+NYSE:PRU,PRU,"Prudential Financial, Inc.",NYQ,Financial Services,Insurance - Life,United States,34241193984.0
+NYSE:PSA,PSA,Public Storage,NYQ,Real Estate,REIT - Industrial,United States,50418356224.0
+NYSE:PSX,PSX,Phillips 66,NYQ,Energy,Oil & Gas Refining & Marketing,United States,39154696192.0
+NASDAQ:PTC,PTC,PTC Inc.,NMS,Technology,Software - Application,United States,16765945856.0
+NYSE:PWR,PWR,"Quanta Services, Inc.",NYQ,Industrials,Engineering & Construction,United States,37782855680.0
+NASDAQ:PYPL,PYPL,"PayPal Holdings, Inc.",NMS,Financial Services,Credit Services,United States,59275280384.0
+NASDAQ:QCOM,QCOM,QUALCOMM Incorporated,NMS,Technology,Semiconductors,United States,148049166336.0
+NYSE:RCL,RCL,Royal Caribbean Cruises Ltd.,NYQ,Consumer Cyclical,Travel Services,United States,50433429504.0
+NASDAQ:REG,REG,Regency Centers Corporation,NMS,Real Estate,REIT - Retail,United States,12887687168.0
+NASDAQ:REGN,REGN,"Regeneron Pharmaceuticals, Inc.",NMS,Healthcare,Biotechnology,United States,61637435392.0
+NYSE:RF,RF,Regions Financial Corporation,NYQ,Financial Services,Banks - Regional,United States,17072010240.0
+NYSE:RJF,RJF,"Raymond James Financial, Inc.",NYQ,Financial Services,Asset Management,United States,26656741376.0
+NYSE:RL,RL,Ralph Lauren Corporation,NYQ,Consumer Cyclical,Apparel Manufacturing,United States,12388972544.0
+NYSE:RMD,RMD,ResMed Inc.,NYQ,Healthcare,Medical Instruments & Supplies,United States,30803886080.0
+NYSE:ROK,ROK,"Rockwell Automation, Inc.",NYQ,Industrials,Specialty Industrial Machinery,United States,25341919232.0
+NYSE:ROL,ROL,"Rollins, Inc.",NYQ,Consumer Cyclical,Personal Services,United States,26654926848.0
+NASDAQ:ROP,ROP,"Roper Technologies, Inc.",NMS,Technology,Software - Application,United States,57976090624.0
+NASDAQ:ROST,ROST,"Ross Stores, Inc.",NMS,Consumer Cyclical,Apparel Retail,United States,44349837312.0
+NYSE:RSG,RSG,"Republic Services, Inc.",NYQ,Industrials,Waste Management,United States,74784702464.0
+NYSE:RTX,RTX,RTX Corporation,NYQ,Industrials,Aerospace & Defense,United States,167540441088.0
+NYSE:RVTY,RVTY,"Revvity, Inc.",NYQ,Healthcare,Diagnostics & Research,United States,10676262912.0
+NASDAQ:SBAC,SBAC,SBA Communications Corporation,NMS,Real Estate,REIT - Specialty,United States,24301979648.0
+NASDAQ:SBUX,SBUX,Starbucks Corporation,NMS,Consumer Cyclical,Restaurants,United States,89465847808.0
+NYSE:SCHW,SCHW,The Charles Schwab Corporation,NYQ,Financial Services,Capital Markets,United States,135322353664.0
+NYSE:SHW,SHW,The Sherwin-Williams Company,NYQ,Basic Materials,Specialty Chemicals,United States,81750810624.0
+NYSE:SJM,SJM,The J. M. Smucker Company,NYQ,Consumer Defensive,Packaged Foods,United States,12294355968.0
+NYSE:SLB,SLB,Schlumberger Limited,NYQ,Energy,Oil & Gas Equipment & Services,United States,46505852928.0
+NASDAQ:SMCI,SMCI,"Super Micro Computer, Inc.",NMS,Technology,Computer Hardware,United States,17596712960.0
+NYSE:SNA,SNA,Snap-on Incorporated,NYQ,Industrials,Tools & Accessories,United States,15455650816.0
+NASDAQ:SNPS,SNPS,"Synopsys, Inc.",NMS,Technology,Software - Infrastructure,United States,61936136192.0
+NYSE:SO,SO,The Southern Company,NYQ,Utilities,Utilities - Regulated Electric,United States,99391160320.0
+NYSE:SOLV,SOLV,Solventum Corporation,NYQ,Healthcare,Medical Instruments & Supplies,United States,11080790016.0
+NYSE:SPG,SPG,"Simon Property Group, Inc.",NYQ,Real Estate,REIT - Retail,United States,55444160512.0
+NYSE:SPGI,SPGI,S&P Global Inc.,NYQ,Financial Services,Financial Data & Stock Exchanges,United States,137979756544.0
+NYSE:SRE,SRE,Sempra,NYQ,Utilities,Utilities - Diversified,United States,45438337024.0
+NYSE:STE,STE,STERIS plc,NYQ,Healthcare,Medical Devices,United States,21393618944.0
+NASDAQ:STLD,STLD,"Steel Dynamics, Inc.",NMS,Basic Materials,Steel,United States,17025300480.0
+NYSE:STT,STT,State Street Corporation,NYQ,Financial Services,Asset Management,United States,23210993664.0
+NASDAQ:STX,STX,Seagate Technology Holdings plc,NMS,Technology,Computer Hardware,Singapore,15528709120.0
+NYSE:STZ,STZ,"Constellation Brands, Inc.",NYQ,Consumer Defensive,Beverages - Brewers,United States,33278988288.0
+NYSE:SW,SW,Smurfit Westrock Plc,NYQ,Consumer Cyclical,Packaging & Containers,Ireland,21160906752.0
+NYSE:SWK,SWK,"Stanley Black & Decker, Inc.",NYQ,Industrials,Tools & Accessories,United States,8632493056.0
+NASDAQ:SWKS,SWKS,"Skyworks Solutions, Inc.",NMS,Technology,Semiconductors,United States,8512662528.0
+NYSE:SYF,SYF,Synchrony Financial,NYQ,Financial Services,Credit Services,United States,18255699968.0
+NYSE:SYK,SYK,Stryker Corporation,NYQ,Healthcare,Medical Devices,United States,128900186112.0
+NYSE:SYY,SYY,Sysco Corporation,NYQ,Consumer Defensive,Food Distribution,United States,34754899968.0
+NYSE:T,T,AT&T Inc.,NYQ,Communication Services,Telecom Services,United States,190747590656.0
+NYSE:TAP,TAP,Molson Coors Beverage Company,NYQ,Consumer Defensive,Beverages - Brewers,United States,11515809792.0
+NYSE:TDG,TDG,TransDigm Group Incorporated,NYQ,Industrials,Aerospace & Defense,United States,73010651136.0
+NYSE:TDY,TDY,Teledyne Technologies Incorporated,NYQ,Technology,Scientific & Technical Instruments,United States,21049331712.0
+NASDAQ:TECH,TECH,Bio-Techne Corporation,NMS,Healthcare,Biotechnology,United States,7358205440.0
+NYSE:TEL,TEL,TE Connectivity plc,NYQ,Technology,Electronic Components,Ireland,38035529728.0
+NASDAQ:TER,TER,"Teradyne, Inc.",NMS,Technology,Semiconductor Equipment & Materials,United States,11017060352.0
+NYSE:TFC,TFC,Truist Financial Corporation,NYQ,Financial Services,Banks - Regional,United States,46082711552.0
+NYSE:TGT,TGT,Target Corporation,NYQ,Consumer Defensive,Discount Stores,United States,41623699456.0
+NYSE:TJX,TJX,"The TJX Companies, Inc.",NYQ,Consumer Cyclical,Apparel Retail,United States,138341662720.0
+NYSE:TKO,TKO,"TKO Group Holdings, Inc.",NYQ,Communication Services,Entertainment,United States,11770252288.0
+NYSE:TMO,TMO,Thermo Fisher Scientific Inc.,NYQ,Healthcare,Diagnostics & Research,United States,158006837248.0
+NASDAQ:TMUS,TMUS,"T-Mobile US, Inc.",NMS,Communication Services,Telecom Services,United States,290744107008.0
+NYSE:TPL,TPL,Texas Pacific Land Corporation,NYQ,Energy,Oil & Gas E&P,United States,28426911744.0
+NYSE:TPR,TPR,"Tapestry, Inc.",NYQ,Consumer Cyclical,Luxury Goods,United States,12876334080.0
+NYSE:TRGP,TRGP,Targa Resources Corp.,NYQ,Energy,Oil & Gas Midstream,United States,35949391872.0
+NASDAQ:TRMB,TRMB,Trimble Inc.,NMS,Technology,Scientific & Technical Instruments,United States,13793846272.0
+NASDAQ:TROW,TROW,"T. Rowe Price Group, Inc.",NMS,Financial Services,Asset Management,United States,18554984448.0
+NYSE:TRV,TRV,"The Travelers Companies, Inc.",NYQ,Financial Services,Insurance - Property & Casualty,United States,57292500992.0
+NASDAQ:TSCO,TSCO,Tractor Supply Company,NMS,Consumer Cyclical,Specialty Retail,United States,26293678080.0
+NASDAQ:TSLA,TSLA,"Tesla, Inc.",NMS,Consumer Cyclical,Auto Manufacturers,United States,723107446784.0
+NYSE:TSN,TSN,"Tyson Foods, Inc.",NYQ,Consumer Defensive,Farm Products,United States,21584322560.0
+NYSE:TT,TT,Trane Technologies plc,NYQ,Industrials,Building Products & Equipment,Ireland,72557019136.0
+NASDAQ:TTWO,TTWO,"Take-Two Interactive Software, Inc.",NMS,Communication Services,Electronic Gaming & Multimedia,United States,36478193664.0
+NASDAQ:TXN,TXN,Texas Instruments Incorporated,NMS,Technology,Semiconductors,United States,130382143488.0
+NYSE:TXT,TXT,Textron Inc.,NYQ,Industrials,Aerospace & Defense,United States,11641905152.0
+NYSE:TYL,TYL,"Tyler Technologies, Inc.",NYQ,Technology,Software - Application,United States,23991193600.0
+NASDAQ:UAL,UAL,"United Airlines Holdings, Inc.",NMS,Industrials,Airlines,United States,21310713856.0
+NYSE:UBER,UBER,"Uber Technologies, Inc.",NYQ,Technology,Software - Application,United States,152682905600.0
+NYSE:UDR,UDR,"UDR, Inc.",NYQ,Real Estate,REIT - Residential,United States,15286333440.0
+NYSE:UHS,UHS,"Universal Health Services, Inc.",NYQ,Healthcare,Medical Care Facilities,United States,10276597760.0
+NASDAQ:ULTA,ULTA,"Ulta Beauty, Inc.",NMS,Consumer Cyclical,Specialty Retail,United States,16352652288.0
+NYSE:UNH,UNH,UnitedHealth Group Incorporated,NYQ,Healthcare,Healthcare Plans,United States,394936057856.0
+NYSE:UNP,UNP,Union Pacific Corporation,NYQ,Industrials,Railroads,United States,128266043392.0
+NYSE:UPS,UPS,"United Parcel Service, Inc.",NYQ,Industrials,Integrated Freight & Logistics,United States,80608772096.0
+NYSE:URI,URI,"United Rentals, Inc.",NYQ,Industrials,Rental & Leasing Services,United States,36985806848.0
+NYSE:USB,USB,U.S. Bancorp,NYQ,Financial Services,Banks - Regional,United States,58492198912.0
+NYSE:V,V,Visa Inc.,NYQ,Financial Services,Credit Services,United States,617167454208.0
+NYSE:VICI,VICI,VICI Properties Inc.,NYQ,Real Estate,REIT - Diversified,United States,33962338304.0
+NYSE:VLO,VLO,Valero Energy Corporation,NYQ,Energy,Oil & Gas Refining & Marketing,United States,33785690112.0
+NYSE:VLTO,VLTO,Veralto Corporation,NYQ,Industrials,Pollution & Treatment Controls,United States,21673543680.0
+NYSE:VMC,VMC,Vulcan Materials Company,NYQ,Basic Materials,Building Materials,United States,30901727232.0
+NASDAQ:VRSK,VRSK,"Verisk Analytics, Inc.",NMS,Industrials,Consulting Services,United States,40178208768.0
+NASDAQ:VRSN,VRSN,"VeriSign, Inc.",NMS,Technology,Software - Infrastructure,United States,22814697472.0
+NASDAQ:VRTX,VRTX,Vertex Pharmaceuticals Incorporated,NMS,Healthcare,Biotechnology,United States,123727937536.0
+NYSE:VST,VST,Vistra Corp.,NYQ,Utilities,Utilities - Independent Power Producers,United States,36071100416.0
+NYSE:VTR,VTR,"Ventas, Inc.",NYQ,Real Estate,REIT - Healthcare Facilities,United States,29211963392.0
+NASDAQ:VTRS,VTRS,Viatris Inc.,NMS,Healthcare,Drug Manufacturers - Specialty & Generic,United States,8970579968.0
+NYSE:VZ,VZ,Verizon Communications Inc.,NYQ,Communication Services,Telecom Services,United States,184577245184.0
+NYSE:WAB,WAB,Westinghouse Air Brake Technologies Corporation,NYQ,Industrials,Railroads,United States,28394246144.0
+NYSE:WAT,WAT,Waters Corporation,NYQ,Healthcare,Diagnostics & Research,United States,18757537792.0
+NASDAQ:WBA,WBA,"Walgreens Boots Alliance, Inc.",NMS,Healthcare,Pharmaceutical Retailers,United States,9373759488.0
+NASDAQ:WBD,WBD,"Warner Bros. Discovery, Inc.",NMS,Communication Services,Entertainment,United States,19145900032.0
+NASDAQ:WDAY,WDAY,"Workday, Inc.",NMS,Technology,Software - Application,United States,57128820736.0
+NASDAQ:WDC,WDC,Western Digital Corporation,NMS,Technology,Computer Hardware,United States,12486882304.0
+NYSE:WEC,WEC,"WEC Energy Group, Inc.",NYQ,Utilities,Utilities - Regulated Electric,United States,34088278016.0
+NYSE:WELL,WELL,Welltower Inc.,NYQ,Real Estate,REIT - Healthcare Facilities,United States,93892853760.0
+NYSE:WFC,WFC,Wells Fargo & Company,NYQ,Financial Services,Banks - Diversified,United States,208617062400.0
+NYSE:WM,WM,"Waste Management, Inc.",NYQ,Industrials,Waste Management,United States,91574788096.0
+NYSE:WMB,WMB,"The Williams Companies, Inc.",NYQ,Energy,Oil & Gas Midstream,United States,69176500224.0
+NYSE:WMT,WMT,Walmart Inc.,NYQ,Consumer Defensive,Discount Stores,United States,737229537280.0
+NYSE:WRB,WRB,W. R. Berkley Corporation,NYQ,Financial Services,Insurance - Property & Casualty,United States,25480194048.0
+NYSE:WSM,WSM,"Williams-Sonoma, Inc.",NYQ,Consumer Cyclical,Specialty Retail,United States,16709531648.0
+NYSE:WST,WST,"West Pharmaceutical Services, Inc.",NYQ,Healthcare,Medical Instruments & Supplies,United States,14534808576.0
+NASDAQ:WTW,WTW,Willis Towers Watson Public Limited Company,NMS,Financial Services,Insurance Brokers,United Kingdom,31435141120.0
+NYSE:WY,WY,Weyerhaeuser Company,NYQ,Real Estate,REIT - Specialty,United States,17884919808.0
+NASDAQ:WYNN,WYNN,"Wynn Resorts, Limited",NMS,Consumer Cyclical,Resorts & Casinos,United States,7927489536.0
+NASDAQ:XEL,XEL,Xcel Energy Inc.,NMS,Utilities,Utilities - Regulated Electric,United States,39318511616.0
+NYSE:XOM,XOM,Exxon Mobil Corporation,NYQ,Energy,Oil & Gas Integrated,United States,452079288320.0
+NYSE:XYL,XYL,Xylem Inc.,NYQ,Industrials,Specialty Industrial Machinery,United States,26298726400.0
+NYSE:YUM,YUM,"Yum! Brands, Inc.",NYQ,Consumer Cyclical,Restaurants,United States,38873092096.0
+NYSE:ZBH,ZBH,"Zimmer Biomet Holdings, Inc.",NYQ,Healthcare,Medical Devices,United States,18453618688.0
+NASDAQ:ZBRA,ZBRA,Zebra Technologies Corporation,NMS,Technology,Communication Equipment,United States,11222118400.0
+NYSE:ZTS,ZTS,Zoetis Inc.,NYQ,Healthcare,Drug Manufacturers - Specialty & Generic,United States,65414840320.0
+COINBASE:AAVEUSD,AAVE-USD,Aave USD,COINBASE,Crypto,Crypto,World,2160780288.0
+COINBASE:ACHUSD,ACH-USD,Alchemy Pay USD,COINBASE,Crypto,Crypto,World,238359456.0
+COINBASE:ADAUSD,ADA-USD,Cardano USD,COINBASE,Crypto,Crypto,World,22271496192.0
+COINBASE:AEROUSD,AERO29270-USD,Aerodrome Finance USD,COINBASE,Crypto,Crypto,World,332149888.0
+COINBASE:AIOZUSD,AIOZ-USD,AIOZ Network USD,COINBASE,Crypto,Crypto,World,324679072.0
+COINBASE:AKTUSD,AKT-USD,Akash Network USD,COINBASE,Crypto,Crypto,World,273177280.0
+COINBASE:ALGOUSD,ALGO-USD,Algorand USD,COINBASE,Crypto,Crypto,World,1679355520.0
+COINBASE:APEUSD,APE18876-USD,ApeCoin USD,COINBASE,Crypto,Crypto,World,362818656.0
+COINBASE:APTUSD,APT21794-USD,Aptos USD,COINBASE,Crypto,Crypto,World,3134942464.0
+COINBASE:ARBUSD,ARB11841-USD,Arbitrum USD,COINBASE,Crypto,Crypto,World,1471535744.0
+COINBASE:ATHUSD,ATH30083-USD,Aethir USD,COINBASE,Crypto,Crypto,World,238331760.0
+COINBASE:ATOMUSD,ATOM-USD,Cosmos USD,COINBASE,Crypto,Crypto,World,1656774016.0
+COINBASE:AVAXUSD,AVAX-USD,Avalanche USD,COINBASE,Crypto,Crypto,World,8484250112.0
+COINBASE:AXLUSD,AXL17799-USD,Axelar USD,COINBASE,Crypto,Crypto,World,294636960.0
+COINBASE:AXSUSD,AXS-USD,Axie Infinity USD,COINBASE,Crypto,Crypto,World,380208320.0
+COINBASE:BCHUSD,BCH-USD,Bitcoin Cash USD,COINBASE,Crypto,Crypto,World,6860832256.0
+COINBASE:BERAUSD,BERA-USD,Berachain USD,COINBASE,Crypto,Crypto,World,378973376.0
+COINBASE:BLURUSD,BLUR-USD,Blur USD,COINBASE,Crypto,Crypto,World,243629968.0
+COINBASE:BONKUSD,BONK-USD,Bonk USD,COINBASE,Crypto,Crypto,World,988077824.0
+COINBASE:BTCUSD,BTC-USD,Bitcoin USD,COINBASE,Crypto,Crypto,World,1740231147520.0
+COINBASE:CHZUSD,CHZ-USD,Chiliz USD,COINBASE,Crypto,Crypto,World,363184736.0
+COINBASE:COMPUSD,COMP5692-USD,Compound USD,COINBASE,Crypto,Crypto,World,363719840.0
+COINBASE:CROUSD,CRO-USD,Cronos USD,COINBASE,Crypto,Crypto,World,2196619264.0
+COINBASE:CRVUSD,CRV-USD,Curve DAO Token USD,COINBASE,Crypto,Crypto,World,786781824.0
+COINBASE:CVXUSD,CVX-USD,Convex Finance USD,COINBASE,Crypto,Crypto,World,260423184.0
+COINBASE:DAIUSD,DAI-USD,Dai USD,COINBASE,Crypto,Crypto,World,5364681216.0
+COINBASE:DASHUSD,DASH-USD,Dash USD,COINBASE,Crypto,Crypto,World,259267392.0
+COINBASE:DOGEUSD,DOGE-USD,Dogecoin USD,COINBASE,Crypto,Crypto,World,23811483648.0
+COINBASE:DOTUSD,DOT-USD,Polkadot USD,COINBASE,Crypto,Crypto,World,6068651008.0
+COINBASE:EGLDUSD,EGLD-USD,MultiversX USD,COINBASE,Crypto,Crypto,World,403616896.0
+COINBASE:ENSUSD,ENS-USD,Ethereum Name Service USD,COINBASE,Crypto,Crypto,World,539404224.0
+COINBASE:EOSUSD,EOS-USD,EOS USD,COINBASE,Crypto,Crypto,World,1004302400.0
+COINBASE:ETCUSD,ETC-USD,Ethereum Classic USD,COINBASE,Crypto,Crypto,World,2421730816.0
+COINBASE:ETHUSD,ETH-USD,Ethereum USD,COINBASE,Crypto,Crypto,World,194693939200.0
+COINBASE:FETUSD,FET-USD,Artificial Superintelligence Alliance USD,COINBASE,Crypto,Crypto,World,1506040064.0
+COINBASE:FILUSD,FIL-USD,Filecoin USD,COINBASE,Crypto,Crypto,World,1755532672.0
+COINBASE:FLOKIUSD,FLOKI-USD,FLOKI USD,COINBASE,Crypto,Crypto,World,571399872.0
+COINBASE:FLOWUSD,FLOW-USD,Flow USD,COINBASE,Crypto,Crypto,World,592182784.0
+COINBASE:FLRUSD,FLR-USD,Flare USD,COINBASE,Crypto,Crypto,World,1016957376.0
+COINBASE:GLMUSD,GLM-USD,Golem USD,COINBASE,Crypto,Crypto,World,268808256.0
+COINBASE:GNOUSD,GNO-USD,Gnosis USD,COINBASE,Crypto,Crypto,World,280321216.0
+COINBASE:GRTUSD,GRT6719-USD,The Graph USD,COINBASE,Crypto,Crypto,World,826489984.0
+COINBASE:HBARUSD,HBAR-USD,Hedera USD,COINBASE,Crypto,Crypto,World,7160023040.0
+COINBASE:HNTUSD,HNT-USD,Helium USD,COINBASE,Crypto,Crypto,World,620253312.0
+COINBASE:ICPUSD,ICP-USD,Internet Computer USD,COINBASE,Crypto,Crypto,World,2387933184.0
+COINBASE:IMXUSD,IMX10603-USD,Immutable USD,COINBASE,Crypto,Crypto,World,884200000.0
+COINBASE:INJUSD,INJ-USD,Injective USD,COINBASE,Crypto,Crypto,World,879975744.0
+COINBASE:IPUSD,IP-USD,Story USD,COINBASE,Crypto,Crypto,World,1013863552.0
+COINBASE:JASMYUSD,JASMY-USD,JasmyCoin USD,COINBASE,Crypto,Crypto,World,722389888.0
+COINBASE:JTOUSD,JTO-USD,Jito USD,COINBASE,Crypto,Crypto,World,536525344.0
+COINBASE:KAVAUSD,KAVA-USD,Kava USD,COINBASE,Crypto,Crypto,World,454474688.0
+COINBASE:KSMUSD,KSM-USD,Kusama USD,COINBASE,Crypto,Crypto,World,229432368.0
+COINBASE:LDOUSD,LDO-USD,Lido DAO USD,COINBASE,Crypto,Crypto,World,654087040.0
+COINBASE:LINKUSD,LINK-USD,Chainlink USD,COINBASE,Crypto,Crypto,World,8716162048.0
+COINBASE:LTCUSD,LTC-USD,Litecoin USD,COINBASE,Crypto,Crypto,World,6003799552.0
+COINBASE:MANAUSD,MANA-USD,Decentraland USD,COINBASE,Crypto,Crypto,World,605065984.0
+COINBASE:MINAUSD,MINA-USD,Mina USD,COINBASE,Crypto,Crypto,World,271548864.0
+COINBASE:MKRUSD,MKR-USD,Maker USD,COINBASE,Crypto,Crypto,World,1153919104.0
+COINBASE:MORPHOUSD,MORPHO34104-USD,Morpho USD,COINBASE,Crypto,Crypto,World,222809008.0
+COINBASE:MOVEUSD,MOVE32452-USD,Movement USD,COINBASE,Crypto,Crypto,World,557461248.0
+COINBASE:MSOLUSD,MSOL-USD,Marinade Staked SOL USD,COINBASE,Crypto,Crypto,World,642541760.0
+COINBASE:NEARUSD,NEAR-USD,NEAR Protocol USD,COINBASE,Crypto,Crypto,World,2747293952.0
+COINBASE:ONDOUSD,ONDO-USD,Ondo USD,COINBASE,Crypto,Crypto,World,2715503360.0
+COINBASE:OPUSD,OP-USD,Optimism USD,COINBASE,Crypto,Crypto,World,1200299904.0
+COINBASE:PENDLEUSD,PENDLE-USD,Pendle USD,COINBASE,Crypto,Crypto,World,531057984.0
+COINBASE:PENGUUSD,PENGU34466-USD,Pudgy Penguins USD,COINBASE,Crypto,Crypto,World,323025024.0
+COINBASE:PEPEUSD,PEPE24478-USD,Pepe USD,COINBASE,Crypto,Crypto,World,3315533312.0
+COINBASE:POLUSD,POL28321-USD,POL (prev. MATIC) USD,COINBASE,Crypto,Crypto,World,2109603328.0
+COINBASE:POPCATUSD,POPCAT28782-USD,Popcat (SOL) USD,COINBASE,Crypto,Crypto,World,249649936.0
+COINBASE:PYTHUSD,PYTH-USD,Pyth Network USD,COINBASE,Crypto,Crypto,World,521333120.0
+COINBASE:QNTUSD,QNT-USD,Quant USD,COINBASE,Crypto,Crypto,World,807095296.0
+COINBASE:RENDERUSD,RENDER-USD,Render USD,COINBASE,Crypto,Crypto,World,2245041152.0
+COINBASE:RSRUSD,RSR-USD,Reserve Rights USD,COINBASE,Crypto,Crypto,World,422288512.0
+COINBASE:SAFEUSD,SAFE21585-USD,Safe USD,COINBASE,Crypto,Crypto,World,238005184.0
+COINBASE:SANDUSD,SAND-USD,The Sandbox USD,COINBASE,Crypto,Crypto,World,700990016.0
+COINBASE:SEIUSD,SEI-USD,Sei USD,COINBASE,Crypto,Crypto,World,913811008.0
+COINBASE:SHIBUSD,SHIB-USD,Shiba Inu USD,COINBASE,Crypto,Crypto,World,7358183936.0
+COINBASE:SNXUSD,SNX-USD,Synthetix USD,COINBASE,Crypto,Crypto,World,230124736.0
+COINBASE:SOLUSD,SOL-USD,Solana USD,COINBASE,Crypto,Crypto,World,70781378560.0
+COINBASE:STRKUSD,STRK22691-USD,Starknet USD,COINBASE,Crypto,Crypto,World,400107968.0
+COINBASE:STXUSD,STX4847-USD,Stacks USD,COINBASE,Crypto,Crypto,World,1078807552.0
+COINBASE:SUIUSD,SUI20947-USD,Sui USD,COINBASE,Crypto,Crypto,World,7216844288.0
+COINBASE:SUPERUSD,SUPER8290-USD,SuperVerse USD,COINBASE,Crypto,Crypto,World,328411744.0
+COINBASE:TAOUSD,TAO22974-USD,Bittensor USD,COINBASE,Crypto,Crypto,World,2704436480.0
+COINBASE:TRUMPUSD,TRUMP-OFFICIAL-USD,TRUMP OFFICIAL USD,COINBASE,Crypto,Crypto,World,1663480576.0
+MEXC:ULTIMAUSDT,ULTIMA-USD,Ultima USD,COINBASE,Crypto,Crypto,World,704761024.0
+COINBASE:UNIUSD,UNI7083-USD,Uniswap USD,COINBASE,Crypto,Crypto,World,3376217088.0
+COINBASE:VETUSD,VET-USD,VeChain USD,COINBASE,Crypto,Crypto,World,2062249600.0
+COINBASE:VTHOUSD,VTHO-USD,VeThor Token USD,COINBASE,Crypto,Crypto,World,221709968.0
+COINBASE:WIFUSD,WIF-USD,dogwifhat USD,COINBASE,Crypto,Crypto,World,443702720.0
+COINBASE:XCNUSD,XCN18679-USD,Onyxcoin USD,COINBASE,Crypto,Crypto,World,580022400.0
+COINBASE:XLMUSD,XLM-USD,Stellar USD,COINBASE,Crypto,Crypto,World,7888382464.0
+COINBASE:XRPUSD,XRP-USD,XRP USD,COINBASE,Crypto,Crypto,World,122480492544.0
+COINBASE:XTZUSD,XTZ-USD,Tezos USD,COINBASE,Crypto,Crypto,World,529386304.0
+COINBASE:ZECUSD,ZEC-USD,Zcash USD,COINBASE,Crypto,Crypto,World,515211616.0
+COINBASE:ZROUSD,ZRO26997-USD,LayerZero USD,COINBASE,Crypto,Crypto,World,282202048.0
+COINBASE:ZRXUSD,ZRX-USD,0x Protocol USD,COINBASE,Crypto,Crypto,World,221362320.0
+BINANCE:ARUSD,AR-USD,Arweave USD,BINANCE,Crypto,Crypto,World,379643360.0
+BINANCE:ASTRUSD,ASTR-USD,Astar USD,BINANCE,Crypto,Crypto,World,208277568.0
+OKX:BABYDOGEUSD,BABYDOGE-USD,Baby Doge Coin USD,BINANCE,Crypto,Crypto,World,212448944.0
+KRAKEN:BEAMUSD,BEAM28298-USD,Beam USD,BINANCE,Crypto,Crypto,World,323824832.0
+BITFINEX:BGBUSD,BGB-USD,Bitget Token USD,BINANCE,Crypto,Crypto,World,5345908224.0
+BINANCE:BNBUSD,BNB-USD,BNB USD,BINANCE,Crypto,Crypto,World,84848738304.0
+BITFINEX:BTTUSD,BTT-USD,BitTorrent(New) USD,BINANCE,Crypto,Crypto,World,601843904.0
+BINANCE:CAKEUSD,CAKE-USD,PancakeSwap USD,BINANCE,Crypto,Crypto,World,586840960.0
+BINANCE:CFXUSD,CFX-USD,Conflux USD,BINANCE,Crypto,Crypto,World,381132320.0
+BINANCE:DYDXUSD,DYDX-USD,dYdX (Native) USD,BINANCE,Crypto,Crypto,World,465929632.0
+BINANCE:ENAUSD,ENA-USD,Ethena USD,BINANCE,Crypto,Crypto,World,1653137792.0
+BINANCE:GALAUSD,GALA-USD,Gala USD,BINANCE,Crypto,Crypto,World,717374592.0
+BINANCE:GASUSD,GAS-USD,Gas USD,BINANCE,Crypto,Crypto,World,226206608.0
+BINANCE:IOTAUSD,IOTA-USD,IOTA USD,BINANCE,Crypto,Crypto,World,631829376.0
+BINANCE:JSTUSD,JST-USD,JUST USD,BINANCE,Crypto,Crypto,World,307432032.0
+BINANCE:LAYERUSD,LAYER35429-USD,Solayer USD,BINANCE,Crypto,Crypto,World,452941792.0
+BINANCE:NEOUSD,NEO-USD,Neo USD,BINANCE,Crypto,Crypto,World,397896832.0
+BINANCE:NEXOUSD,NEXO-USD,Nexo USD,BINANCE,Crypto,Crypto,World,681126080.0
+BINANCE:OMUSD,OM-USD,MANTRA USD,BINANCE,Crypto,Crypto,World,526604928.0
+BINANCE:PAXGUSD,PAXG-USD,PAX Gold USD,BINANCE,Crypto,Crypto,World,790771648.0
+BINANCE:QTUMUSD,QTUM-USD,Qtum USD,BINANCE,Crypto,Crypto,World,223683728.0
+BINANCE:RUNEUSD,RUNE-USD,THORChain USD,BINANCE,Crypto,Crypto,World,432914208.0
+BINANCE:SUSD,S32684-USD,Sonic (prev. FTM) USD,BINANCE,Crypto,Crypto,World,1351339776.0
+BINANCE:SFPUSD,SFP-USD,SafePal USD,BINANCE,Crypto,Crypto,World,238758960.0
+BINANCE:TFUELUSD,TFUEL-USD,Theta Fuel USD,BINANCE,Crypto,Crypto,World,250519728.0
+BINANCE:THETAUSD,THETA-USD,Theta Network USD,BINANCE,Crypto,Crypto,World,657499648.0
+BINANCE:TIAUSDT,TIA-USD,Celestia USD,BINANCE,Crypto,Crypto,World,1571539456.0
+BINANCE:TONUSD,TON11419-USD,Toncoin USD,BINANCE,Crypto,Crypto,World,7432735232.0
+BINANCE:TRXUSD,TRX-USD,TRON USD,BINANCE,Crypto,Crypto,World,23147878400.0
+BINANCE:WUSD,W-USD,Wormhole USD,BINANCE,Crypto,Crypto,World,358851168.0
+BINANCE:WLDUSD,WLD-USD,Worldcoin USD,BINANCE,Crypto,Crypto,World,1022068096.0
+BINANCE:ZILUSD,ZIL-USD,Zilliqa USD,BINANCE,Crypto,Crypto,World,235704768.0
