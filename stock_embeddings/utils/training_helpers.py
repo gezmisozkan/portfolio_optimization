@@ -94,7 +94,7 @@ def train_embeddings_from_tgt_context_sets(
         save_checkpoint=save_checkpoint,
         save_just_last_checkpoint=save_just_last_checkpoint,
         checkpoint_folder = checkpoint_folder,
-        tickers=tickers,  # <--- pass it down
+        tickers=tickers,
     )
 
     return model, losses
@@ -113,7 +113,7 @@ def train_model(
     save_just_last_checkpoint: bool = False,
     checkpoint_folder: Optional[str] = None,
     tickers: Optional[list] = None,
-) -> list:
+) -> Tuple[nn.Module, List[float]]:
     """
     Train a PyTorch model.
 
@@ -136,8 +136,8 @@ def train_model(
 
     Returns
     -------
-    list
-        A list containing the loss values for each epoch.
+    tuple
+        The trained model and the list of loss values for each epoch.
     """
     model.to(device)
     losses = []
@@ -165,13 +165,13 @@ def train_model(
             print(f"Epoch {epoch}: Loss = {epoch_loss}")
     
         if save_just_last_checkpoint:
-            checpoint_path = os.path.join(checkpoint_folder, f"last_epoch.pt")
-            model.save_model(checpoint_path, tickers=tickers)
-            print(f"Checkpoint saved at {checpoint_path} for epoch {epoch}.")
+            checkpoint_path = os.path.join(checkpoint_folder, f"last_epoch.pt")
+            model.save_model(checkpoint_path, tickers=tickers)
+            print(f"Checkpoint saved at {checkpoint_path} for epoch {epoch}.")
 
         elif save_checkpoint:
-            checpoint_path = os.path.join(checkpoint_folder, f"epoch_{epoch}.pt")
-            model.save_model(checpoint_path, tickers=tickers)
+            checkpoint_path = os.path.join(checkpoint_folder, f"epoch_{epoch}.pt")
+            model.save_model(checkpoint_path, tickers=tickers)
         
         
 

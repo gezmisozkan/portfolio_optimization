@@ -16,10 +16,10 @@ class ClassificationEmbeddings(BaseModel):
     def forward(self, inputs):
         # -- This extracts the relevant rows of the embedding matrix
         # - Equivalent to W^T x_i in "word2vec Parameter Learning Explained"
-        context_embeddings = self.embeddings(inputs)  # (batch_size, embed_dim)
+        context_embeddings = self.embeddings(inputs)  # (batch_size, context_size, embed_dim)
 
         # -- Compute the hidden layer by a simple mean
-        hidden = context_embeddings.mean(axis=1)  # (n_time_series, embed_dim)
+        hidden = context_embeddings.mean(axis=1)  # (batch_size, embed_dim)
         # -- Compute dot product of hidden with embeddings
         out = torch.einsum("nd,bd->bn", self.embeddings.weight, hidden)
 

@@ -48,7 +48,7 @@ def main():
         os.makedirs(folder, exist_ok=True)
 
         torch.manual_seed(42)  # fixes the initial weights and the DataLoader shuffle order
-        model =ClassificationEmbeddings(n_time_series=len(data.tickers), embedding_dim=EMBEDDING_DIM)
+        model = ClassificationEmbeddings(n_time_series=len(data.tickers), embedding_dim=EMBEDDING_DIM)
         _, losses = train_embeddings_from_tgt_context_sets(
             n_time_series=len(data.tickers), tgt_context_sets=pairs, model=model, epochs=EPOCHS,
             batch_size=BATCH_SIZE, early_stopping=False, device=DEVICE, verbose=False, save_checkpoint=False)

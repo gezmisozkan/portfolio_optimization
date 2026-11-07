@@ -16,7 +16,6 @@ class ReturnsData:
             self.daily_returns_df = daily_returns_path
 
             self.returns_df = daily_returns_path
-            # change index to column 0
         else:
             self.daily_returns_path = daily_returns_path
             self._get_data()
@@ -34,8 +33,8 @@ class ReturnsData:
 
     def _get_extras(self, misc_include=False):
         """
-        Returns
-        -------
+        Read the universe file, sort the return columns by ticker and set these attributes:
+
         tickers : list
             Tickers in the order of index.
         ticker2idx : dict
@@ -53,8 +52,7 @@ class ReturnsData:
         # -- Read in data containing sectors etc
         self.extras_df = pd.read_csv(self.extras_path)
 
-        # -- Optionally remove the miscellaneous category
-        # - Note: This is removed already in the returns_df_611.csv
+        # -- Optionally remove the MISCELLANEOUS sector (kept from the original code; the universe files have none)
         if not misc_include:
             temp_tickers = self.returns_df.columns
             for ticker in self.extras_df[
@@ -111,8 +109,9 @@ class ReturnsData:
             self.period = period
 
     def train_test_split(self, train_pct=0.7):
-        """Adds the train_cutoff_date, train_returns_df and test_returns_df attributes.
-        These are DAILY returns and will not reflect a change in returns period from change_returns_period.
+        """Adds the train_returns_df attribute (all of returns_df when train_pct is 1), and otherwise
+        train_cutoff_date, test_returns_df and the daily train/test frames. train_returns_df and
+        test_returns_df use the period set by change_returns_period.
 
         Args:
             train_pct (float, optional): Proportion of data in the training set. Defaults to 0.7.

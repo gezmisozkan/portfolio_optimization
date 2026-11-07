@@ -151,7 +151,7 @@ def main():
     exchange = combined.drop_duplicates('ticker').set_index('ticker').exchange
     for region, codes in REGIONS.items():
         df = static([t for t in prices.columns if exchange.get(t) in codes])
-        df['period_ret'] = df.cumulative_return.pct_change().fillna(0)  # as used for the paper's results
+        df['period_ret'] = df.cumulative_return.pct_change().fillna(0)  # first period's return set to 0, as in the paper's results
         curves[f'{region} Index'] = df
 
     table = pd.DataFrame({name: summarize(df, 1 if 'Annual' in name else 12) for name, df in curves.items()}).T.sort_values('Final Return', ascending=False)
