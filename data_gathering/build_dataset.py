@@ -18,7 +18,7 @@ def fold_crypto_weekends(df):
         symbol=('symbol', 'first'), open=('open', 'first'), high=('high', 'max'), low=('low', 'min'),
         close=('close', 'last'), volume=('volume', 'first'), weekend_volume=('weekend_volume', 'sum'),
         currency_pair_used=('currency_pair_used', 'first'))
-    out['volume'] += out.pop('weekend_volume')  # Friday + (Sat + Sun), same summation order as the paper code
+    out['volume'] += out.pop('weekend_volume')  # Friday + (Sat + Sun)
     out['open_usd'], out['close_usd'] = out.open, out.close
     return out.rename_axis('date').reset_index()
 

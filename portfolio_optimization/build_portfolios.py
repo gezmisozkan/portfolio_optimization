@@ -1,8 +1,8 @@
-"""Build monthly portfolios for the clustered, sector and Top-N strategies (June 2025 paper version).
+"""Build monthly portfolios for the clustered, sector and Top-N strategies.
 
 Usage: python -m portfolio_optimization.build_portfolios [preset] [strategy ...]
        e.g. python -m portfolio_optimization.build_portfolios paper top_n sector
-Writes results/portfolios/<preset>/<strategy>.csv in the thesis 3-row format (Date, Type, List).
+Writes results/<DATASET>/portfolios/<preset>/<strategy>.csv in a 3-row format (Date, Type, List).
 """
 import os
 import sys
@@ -40,7 +40,7 @@ def build_factor_table(df):
     df['USD_VOL_21D'] = (df.close_usd * df.adj_volume).groupby(df.ticker).transform(lambda s: s.rolling(21, min_periods=1).sum())  # dynamic picks
     monthly = df.date.dt.to_period('M')
     for f in ['MOM', 'VOL', 'LIQ']:
-        # as in the paper code: clip at the 1%/99% quantiles, then center with the unclipped mean/std
+        # clip at the 1%/99% quantiles, then center with the unclipped mean/std, as used for the paper's results
         df[f] = df.groupby(monthly)[f].transform(lambda x: (x.clip(x.quantile(.01), x.quantile(.99)) - x.mean()) / x.std())
     df['VOL'] = -df.VOL
     return df
@@ -102,7 +102,7 @@ def select(q, p, groups=None):
 
 
 def save_3row(details, path):
-    """Write {date: DataFrame} as the thesis format: one Ticker, Weight and Quality row per date."""
+    """Write {date: DataFrame} in a 3-row format: one Ticker, Weight and Quality row per date."""
     rows = []
     for dt, df in details.items():
         rows += [{'Date': dt, 'Type': 'Ticker', 'List': str(df.Ticker.tolist())},
@@ -133,7 +133,7 @@ def main():
         for dt in rebalance_dates:
             q = quality_on(fac, dt, p)
             q = q[q.index.isin(first_dates[first_dates <= dt].index)]  # tickers with a price on/before dt
-            if q.empty:  # as in the paper code, a month without scores gets no portfolio (May 2025)
+            if q.empty:  # a month without scores gets no portfolio (May 2025)
                 continue
             if name == 'clustered':
                 groups = load_clusters(dt, p['n_clusters'], tickers, first_dates)

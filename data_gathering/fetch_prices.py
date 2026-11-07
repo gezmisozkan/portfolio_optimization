@@ -35,7 +35,7 @@ for i, (ticker, exchange) in enumerate(zip(universe.ticker, universe.exchange), 
         continue
 
     # Bars come as UTC; futures/FX daily bars open the evening before, so the date is taken in
-    # Istanbul time as the paper-era library did (it used the local clock of the machine).
+    # Istanbul time, as for the paper's data.
     df.index = df.index.tz_localize('UTC').tz_convert('Europe/Istanbul').tz_localize(None).normalize()
     pair = EXCHANGE_FX.get(exchange)
     if pair:

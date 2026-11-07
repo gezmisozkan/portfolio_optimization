@@ -1,7 +1,6 @@
 """Tune one strategy with Optuna on the development period (Jan 2010 - Dec 2017), as in the paper.
 
-Usage: python -m portfolio_optimization.tune <clustered|sector|top_n> [n_trials, default 500] [us]
-`us` keeps only NYSE/NASDAQ tickers, as the last version of the paper's tuning script did.
+Usage: python -m portfolio_optimization.tune <clustered|sector|top_n> [n_trials, default 500]
 Saves every trial to results/<DATASET>/optuna_<strategy>.csv and prints the top-50 average as a PRESETS entry.
 No price after DEV_END is read.
 """
@@ -22,7 +21,6 @@ TOP_TRIALS = 50
 
 strategy = sys.argv[1]
 n_trials = int(sys.argv[2]) if len(sys.argv) > 2 else 500
-us_only = sys.argv[3:] == ['us']
 
 prices = load_prices()
 prices = prices[prices.date < DEV_END]
@@ -52,10 +50,8 @@ def objective(trial):
     for dt in dates:
         q = quality_on(months[dt], dt, p)
         q = q[q.index.isin(first_dates[first_dates <= dt].index)]
-        if us_only:
-            q = q[q.index.str.split(':').str[0].isin(['NYSE', 'NASDAQ'])]
         groups = clusters(dt, p['n_clusters']) if strategy == 'clustered' else sectors if strategy == 'sector' else None
-        if groups is not None:  # the old tuning script dropped ungrouped tickers before sizing the pool
+        if groups is not None:  # ungrouped tickers are dropped before sizing the pool
             g = q.index.map(groups)
             q = q[g.notna() & (g != -1)]
         top = select(q, p, groups)
@@ -65,7 +61,7 @@ def objective(trial):
 
 
 os.makedirs(RESULTS_DIR, exist_ok=True)
-out_csv = f'{RESULTS_DIR}/optuna_{strategy}{"_us" if us_only else ""}.csv'
+out_csv = f'{RESULTS_DIR}/optuna_{strategy}.csv'
 study = optuna.create_study(direction='maximize', sampler=optuna.samplers.TPESampler(seed=42))
 study.optimize(objective, n_trials=n_trials, callbacks=[lambda s, t: s.trials_dataframe().to_csv(out_csv, index=False)])
 

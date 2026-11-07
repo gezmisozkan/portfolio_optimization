@@ -13,9 +13,6 @@ class BaseModel(nn.Module):
         self.embeddings = None
         self.device = torch.device(device)
 
-    # def save_model(self, path):
-    #     torch.save(self.state_dict(), path)
-
     def save_model(self, path, tickers=None):
         checkpoint = {
             "state_dict": self.state_dict(),
@@ -25,9 +22,6 @@ class BaseModel(nn.Module):
 
     @classmethod
     def load_model(cls, path, device="cuda", verbose=True):
-        # Load the state dict from the file
-        # state_dict = torch.load(path, map_location=torch.device(device), weights_only=False)
-
         checkpoint = torch.load(path, map_location=torch.device(device), weights_only=False)
         # check if the checkpoint is a dict
         if isinstance(checkpoint, dict):

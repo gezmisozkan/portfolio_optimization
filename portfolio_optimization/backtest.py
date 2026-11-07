@@ -1,7 +1,7 @@
-"""Backtest the saved portfolios against the paper's baselines and regional indices (July 2025 paper version).
+"""Backtest the saved portfolios against the paper's baselines and regional indices.
 
 Usage: python -m portfolio_optimization.backtest [preset]
-Prints the results table and writes results/backtest_<preset>.csv.
+Prints the results table and writes results/<DATASET>/backtest_<preset>.csv.
 """
 import ast
 import os
@@ -80,12 +80,12 @@ def top_volume(combined, tickers, day):
     return snap.nlargest(10, 'Rolling_Monthly_USD_Volume').ticker.tolist() if len(snap) >= 10 else None
 
 
-def summarize(df):
-    """Final return, std of monthly returns, sqrt(12)-annualized Sharpe and max drawdown (%)."""
+def summarize(df, periods_per_year=12):
+    """Final return, std of period returns, sqrt(periods_per_year)-annualized Sharpe and max drawdown (%)."""
     vol = df.period_ret.std(ddof=0)
     peak = df.cumulative_return.cummax()
     return {'Final Return': df.cumulative_return.iloc[-1], 'Volatility': vol,
-            'Sharpe': df.period_ret.mean() / vol * np.sqrt(12) if vol > 0 else np.nan,
+            'Sharpe': df.period_ret.mean() / vol * np.sqrt(periods_per_year) if vol > 0 else np.nan,
             'Max Drawdown (%)': ((df.cumulative_return - peak) / peak).min() * 100, 'Num Periods': len(df)}
 
 
@@ -151,10 +151,10 @@ def main():
     exchange = combined.drop_duplicates('ticker').set_index('ticker').exchange
     for region, codes in REGIONS.items():
         df = static([t for t in prices.columns if exchange.get(t) in codes])
-        df['period_ret'] = df.cumulative_return.pct_change().fillna(0)  # as in the paper code
+        df['period_ret'] = df.cumulative_return.pct_change().fillna(0)  # as used for the paper's results
         curves[f'{region} Index'] = df
 
-    table = pd.DataFrame({name: summarize(df) for name, df in curves.items()}).T.sort_values('Final Return', ascending=False)
+    table = pd.DataFrame({name: summarize(df, 1 if 'Annual' in name else 12) for name, df in curves.items()}).T.sort_values('Final Return', ascending=False)
     os.makedirs(RESULTS_DIR, exist_ok=True)
     table.to_csv(f'{RESULTS_DIR}/backtest_{preset}.csv')
     pd.concat({k: v.set_index('end_date').cumulative_return for k, v in curves.items()}, axis=1, sort=True) \

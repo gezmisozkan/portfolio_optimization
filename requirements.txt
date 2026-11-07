@@ -1,9 +1,10 @@
-# torch with CUDA 12.8 on the server; on macOS pip falls back to the CPU build from PyPI
+# torch built for CUDA 12.8; on macOS pip falls back to the CPU build from PyPI
 --extra-index-url https://download.pytorch.org/whl/cu128
 torch==2.7.0
 pandas>=3
 numpy
 scikit-learn
+optuna
 python-dateutil
 tqdm
 yfinance

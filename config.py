@@ -19,7 +19,7 @@ TEST_START = '2018-01-01'
 DATA_END, TEST_END = {'paper': ('2025-05-02', '2025-05-01'),
                       'current': ('2026-10-28', '2026-10-01')}[DATASET]
 
-# Paper Table 2 = thesis Table 5.1: top 50 of 500 Optuna trials (2010-2017), raw weights averaged then normalized.
+# Paper Table 2: top 50 of 500 Optuna trials (2010-2017), raw weights averaged then normalized.
 PRESETS = {
     'paper': {
         'clustered': dict(n_stocks=7, n_clusters=11, per_group=2, weight_method='quality',

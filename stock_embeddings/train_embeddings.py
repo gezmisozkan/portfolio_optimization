@@ -1,4 +1,4 @@
-"""Train one embedding model every 6 months on all returns since 2000 (the June 2025 paper version).
+"""Train one embedding model every 6 months on all returns since 2000.
 
 Usage: python -m stock_embeddings.train_embeddings [first_window_start, default 2017-07-01 = backtest windows only] [last_window_end, default TEST_END]
 last_epoch.pt is written after the final epoch, so finished windows are skipped and an interrupted one retrains.

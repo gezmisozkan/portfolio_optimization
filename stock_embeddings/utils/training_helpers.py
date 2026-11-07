@@ -41,7 +41,7 @@ def get_train_loader(tgt_context_sets: list, batch_size: int = 64) -> DataLoader
     y_train_tensor = torch.from_numpy(y_vals).long()
 
     train_data = CustomDataset(x_train_tensor, y_train_tensor)
-    # 8 workers on the CUDA workstation; on macOS each worker would copy the full tensors into RAM.
+    # 8 workers with CUDA; on macOS each worker would copy the full tensors into RAM.
     num_workers = 8 if torch.cuda.is_available() else 0
     return DataLoader(train_data, batch_size=batch_size, shuffle=True, drop_last=True, num_workers=num_workers)
 
