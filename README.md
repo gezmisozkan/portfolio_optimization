@@ -76,7 +76,12 @@ Run every step from the repository root. For the current universe, prefix each c
 - Step 4 by default trains the six-monthly windows the backtest uses (ending 2018-01-01 up to the backtest end). Tuning on 2010-2017 also needs the earlier windows: `python -m stock_embeddings.train_embeddings 2005-01-01 2018-01-01`. Windows can be split across GPUs with `CUDA_VISIBLE_DEVICES`.
 - Step 5 runs Optuna (500 trials by default) on the January 2010 to December 2017 rebalances only. It searches the factor weights (0-1 each, normalized), portfolio size (5-50), weighting scheme (equal, quality-proportional, or inverse 63-day volatility), and for the grouped strategies the pick method (a fixed 1-5 names per group, or `n_stocks` split across groups by 21-day dollar volume) and the cluster count (5-30). The minimum quality score is fixed at 0. It prints the top-50 average (numbers averaged, choices by majority), to be added to `PRESETS` in `config.py`.
 - The `paper` preset holds the paper's Table 2 parameters. Averaged over their top 50 trials, all three strategies chose quality-proportional weighting with momentum weights above 0.8; the grouped strategies use fixed picks (clustered: 2 names from each of 11 clusters, 7 in total; sector-based: up to 5 per sector, 12 in total; Top-N: 14 names).
-- Embedding training is seeded, but retrained embeddings differ from the paper's checkpoints, so the clustered strategy will not reproduce the paper's figures exactly.
+- The paper's original embedding checkpoints are not available. Embedding training is seeded, but retrained embeddings differ from the paper's, so results will differ from the paper, most of all for the clustered strategy, which depends directly on the embeddings.
+- The statistical significance tests reported in the paper (Wilcoxon signed-rank and stationary block bootstrap) are not included in this repository.
+
+## Acknowledgements
+
+The embedding model and target-context generation in `stock_embeddings/` are adapted from the code of Dolphin et al., [*Stock Embeddings: Learning Distributed Representations for Financial Assets*](https://arxiv.org/abs/2202.08968) ([rian-dolphin/stock-embeddings](https://github.com/rian-dolphin/stock-embeddings)).
 
 ## License
 

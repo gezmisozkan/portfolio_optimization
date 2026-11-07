@@ -5,6 +5,8 @@ pandas>=3
 numpy
 scikit-learn
 optuna
+plotly
+kaleido
 python-dateutil
 tqdm
 yfinance
